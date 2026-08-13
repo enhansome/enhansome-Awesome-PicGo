@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "description": "Available for MacOS, Linux, & Windows",
+      "items": [],
+      "title": "Warp, the intelligent terminal for developers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":rocket: Plugin for PicGo"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":hammer_and_wrench: Plugin for Other APPs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":package: Project using PicGo-Core"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":star: Apps supports PicGo Configuration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Others"
+    },
+    {
+      "description": "Make sure your have read the CONTRIBUTING, then you can open a PR!",
+      "items": [],
+      "title": "Contribution"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:02:43.715Z",
+    "original_repository": "PicGo/Awesome-PicGo",
+    "original_repository_sha": "a1e9ddf6677c5356f126ad30920f7e1a45b127ab",
+    "enhanced_repository": "enhansome/enhansome-Awesome-PicGo",
+    "enhanced_repository_description": null,
+    "title": "Awesome-PicGo with stars"
+  }
+}
