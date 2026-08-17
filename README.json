@@ -1,9 +1,9 @@
 {
   "items": [
     {
-      "description": "Available for MacOS, Linux, & Windows",
+      "description": "",
       "items": [],
-      "title": "Warp, the intelligent terminal for developers"
+      "title": "NocoBase, AI + No-Code Build reliable business systems"
     },
     {
       "description": "",
@@ -37,9 +37,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:11:00.194Z",
+    "last_updated": "2026-08-17T07:35:23.046Z",
     "original_repository": "PicGo/Awesome-PicGo",
-    "original_repository_sha": "a1e9ddf6677c5356f126ad30920f7e1a45b127ab",
+    "original_repository_sha": "aec83a151889ee4cd05841da7b62c2efc5d1d749",
     "enhanced_repository": "enhansome/enhansome-Awesome-PicGo",
     "enhanced_repository_description": null,
     "title": "Awesome-PicGo with stars"
