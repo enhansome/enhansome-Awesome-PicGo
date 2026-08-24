@@ -1,7 +1,1772 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-autocopy",
+          "description": "A plugin for auto copying url to clipboard after uploading. :white_check_mark: :x:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 149581887,
+            "language": "TypeScript",
+            "last_commit": "2019-01-14T14:10:14Z",
+            "owner": "PicGo",
+            "repo": "picgo-plugin-autocopy",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-github-plus",
+          "description": "An uploader for GitHub & Gitee with sync function. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 165809498,
+            "language": "TypeScript",
+            "last_commit": "2022-12-08T16:19:20Z",
+            "owner": "zWingz",
+            "repo": "picgo-plugin-github-plus",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-pic-migrater",
+          "description": "A plugin for pictures in markdown files migrating from one img host to another one. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 166678902,
+            "language": "TypeScript",
+            "last_commit": "2026-02-04T08:15:54Z",
+            "owner": "PicGo",
+            "repo": "picgo-plugin-pic-migrater",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-web-uploader",
+          "description": "An uploader for custom web api. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172873387,
+            "language": "JavaScript",
+            "last_commit": "2022-04-15T06:24:39Z",
+            "owner": "yuki-xin",
+            "repo": "picgo-plugin-web-uploader",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-qingstor-uploader",
+          "description": "An uploader for QingStor image hosting. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 174180374,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T14:36:01Z",
+            "owner": "chengww5217",
+            "repo": "picgo-plugin-qingstor-uploader",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-vscode-migrator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178881403,
+            "language": "TypeScript",
+            "last_commit": "2020-07-07T05:00:17Z",
+            "owner": "upupming",
+            "repo": "picgo-plugin-vscode-migrator",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A plugin for PicGo to import images from",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 150125078,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T06:00:21Z",
+            "owner": "PicGo",
+            "repo": "vs-picgo",
+            "stars": 414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-super-prefix",
+          "description": "A plugin for customizing images filename and prefix. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222287066,
+            "language": "TypeScript",
+            "last_commit": "2023-11-14T19:49:19Z",
+            "owner": "gclove",
+            "repo": "picgo-plugin-super-prefix",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-smms-user",
+          "description": "An uploader for registered user of SM.MS. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 210316545,
+            "language": "JavaScript",
+            "last_commit": "2022-09-09T07:46:53Z",
+            "owner": "xlzy520",
+            "repo": "picgo-plugin-smms-user",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-gitlab",
+          "description": "An uploader for GitLab. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 209922529,
+            "language": "JavaScript",
+            "last_commit": "2019-09-22T07:03:11Z",
+            "owner": "bugwz",
+            "repo": "picgo-plugin-gitlab",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-gitlab-files",
+          "description": "An uploader for GitLab.Every file make a pull request. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 332162611,
+            "language": "TypeScript",
+            "last_commit": "2022-11-14T11:41:46Z",
+            "owner": "d-w-x",
+            "repo": "picgo-plugin-gitlab-files",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-gitee",
+          "description": "An uploader for Gitee. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 214855575,
+            "language": "JavaScript",
+            "last_commit": "2024-03-25T10:05:25Z",
+            "owner": "zhanghuid",
+            "repo": "picgo-plugin-gitee",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-gitee-uploader",
+          "description": "An uploader for Gitee. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 191017257,
+            "language": "TypeScript",
+            "last_commit": "2019-06-23T08:42:43Z",
+            "owner": "lizhuangs",
+            "repo": "picgo-plugin-gitee-uploader",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-nextcloud-uploader",
+          "description": "An uploader for Nextcloud. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 228947877,
+            "language": "JavaScript",
+            "last_commit": "2026-05-27T09:03:22Z",
+            "owner": "jiajiajia343434",
+            "repo": "picgo-plugin-nextcloud-uploader",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-watermark",
+          "description": "A plugin for watermarking pictures. 【GUI v2.2.0+】 :x: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 229172348,
+            "language": "TypeScript",
+            "last_commit": "2021-12-26T16:00:40Z",
+            "owner": "fhyoga",
+            "repo": "picgo-plugin-watermark",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-quick-capture",
+          "description": "A plugin for quickly capture screenshot && uploading. 【GUI v2.2.0+】 :x: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 230475429,
+            "language": "TypeScript",
+            "last_commit": "2022-12-10T13:17:57Z",
+            "owner": "PicGo",
+            "repo": "picgo-plugin-quick-capture",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-azure",
+          "description": "An uploader for Azure. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 237565435,
+            "language": "TypeScript",
+            "last_commit": "2022-12-10T16:43:58Z",
+            "owner": "CaiJingLong",
+            "repo": "picgo-plugin-azure",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-sharp",
+          "description": "A transformer for image compression. :white_check_mark: :x:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 247609405,
+            "language": "TypeScript",
+            "last_commit": "2020-08-05T19:53:00Z",
+            "owner": "billow-archive",
+            "repo": "picgo-plugin-sharp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-coding",
+          "description": "An uploader for Coding.net. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 257949537,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T13:51:40Z",
+            "owner": "zytomorrow",
+            "repo": "picgo-plugin-coding",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-compress",
+          "description": "A plugin for image compression. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 257154960,
+            "language": "TypeScript",
+            "last_commit": "2023-04-21T04:19:35Z",
+            "owner": "juzisang",
+            "repo": "picgo-plugin-compress",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-compress-pro",
+          "description": "An advanced PicGo plugin for image compression using TinyPNG and local tools like PNGQuant and JPEGOptim. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1186144684,
+            "language": "JavaScript",
+            "last_commit": "2026-03-22T13:02:07Z",
+            "owner": "rumosky",
+            "repo": "picgo-plugin-compress-pro",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-wxcloud-uploader",
+          "description": "An uploader for wx-cloud (微信云开发-云存储) :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 258067779,
+            "language": "TypeScript",
+            "last_commit": "2020-04-23T09:02:41Z",
+            "owner": "arleyGuoLei",
+            "repo": "picgo-plugin-wxcloud-uploader",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-folder-name",
+          "description": "A plugin for use part of the local address of the file as part of the cloud address. ( 将文件的部分本地地址，作为部分云端地址) :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 271044703,
+            "language": "JavaScript",
+            "last_commit": "2021-04-13T15:53:30Z",
+            "owner": "evgo2017",
+            "repo": "picgo-plugin-folder-name",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-dir-prefix",
+          "description": "A plugin for generate file upload key with directory struct. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 275634309,
+            "language": "TypeScript",
+            "last_commit": "2020-06-28T17:28:02Z",
+            "owner": "karboom",
+            "repo": "picgo-plugin-dir-prefix",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-rename-file",
+          "description": "A PicGo plugin for customizing file name.(文件(包括路径)名称支持日期、随机字符串、文件MD5、原文件名、原文件目录结构等) :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 282113545,
+            "language": "TypeScript",
+            "last_commit": "2021-05-27T16:29:48Z",
+            "owner": "liuwave",
+            "repo": "picgo-plugin-rename-file",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-ucloud",
+          "description": "A PicGo plugin for UCloud. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 288492725,
+            "language": "JavaScript",
+            "last_commit": "2020-08-20T13:05:24Z",
+            "owner": "Wsine",
+            "repo": "picgo-plugin-ucloud",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-UCloud-uploader",
+          "description": "Another uploader for UCloud. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 293231613,
+            "language": "JavaScript",
+            "last_commit": "2023-02-28T08:42:58Z",
+            "owner": "xizeyoupan",
+            "repo": "picgo-plugin-UCloud-uploader",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-ftp-uploader",
+          "description": "An uploader for uploading via FTP :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 326997053,
+            "language": "TypeScript",
+            "last_commit": "2025-07-16T16:23:50Z",
+            "owner": "imba97",
+            "repo": "picgo-plugin-ftp-uploader",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-sftp-uploader",
+          "description": "An uploader for uploading via SFTP :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 327386447,
+            "language": "TypeScript",
+            "last_commit": "2026-05-06T17:08:08Z",
+            "owner": "imba97",
+            "repo": "picgo-plugin-sftp-uploader",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-s3",
+          "description": "An uploader with Amazon S3 API (or other s3 compatible api providers). :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 336545959,
+            "language": "TypeScript",
+            "last_commit": "2026-02-15T05:24:40Z",
+            "owner": "wayjam",
+            "repo": "picgo-plugin-s3",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-s3-uploader",
+          "description": "An uploader for AWS S3, Garage, MinIO and other S3-compatible storage with uploaded file deletion support（支持图片删除,imgproxy 联动）. Outputs imgproxy-friendly metadata :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1190924779,
+            "language": "JavaScript",
+            "last_commit": "2026-03-31T21:16:15Z",
+            "owner": "eyunzhu",
+            "repo": "picgo-plugin-s3-uploader",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-imgproxy",
+          "description": "A plugin for replacing uploaded URLs with imgproxy signed URLs after upload（支持 HTTP/S3 来源）. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1190934168,
+            "language": "JavaScript",
+            "last_commit": "2026-03-25T18:06:45Z",
+            "owner": "eyunzhu",
+            "repo": "picgo-plugin-imgproxy",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-minio",
+          "description": "An uploader for MinIO :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 344679492,
+            "language": "JavaScript",
+            "last_commit": "2024-11-26T02:29:33Z",
+            "owner": "Herbertzz",
+            "repo": "picgo-plugin-minio",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-huawei-uploader",
+          "description": "An uploader for HUAWEI Cloud OBS（华为云 对象存储）. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 366426198,
+            "language": "TypeScript",
+            "last_commit": "2024-01-20T10:15:38Z",
+            "owner": "YunfengGao",
+            "repo": "picgo-plugin-huawei-uploader",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-halo-uploader",
+          "description": "An uploader for halo blog. :white_check_mark: :x:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 420570485,
+            "language": "JavaScript",
+            "last_commit": "2022-02-14T03:11:18Z",
+            "owner": "foraixh",
+            "repo": "picgo-plugin-halo-uploader",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-cfi-uploader",
+          "description": "An uploader for Cloudflare Images :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 428625445,
+            "language": "TypeScript",
+            "last_commit": "2021-11-16T15:01:56Z",
+            "owner": "boeto",
+            "repo": "picgo-plugin-cfi-uploader",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-auto-delete",
+          "description": "A PicGo plugin for auto delete image when upload success :white_check_mark: :x:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 431311365,
+            "language": "TypeScript",
+            "last_commit": "2021-11-28T06:55:01Z",
+            "owner": "Zorabi",
+            "repo": "picgo-plugin-auto-delete",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-dogecloud",
+          "description": "An uploader for uploading to dogecloud(多吉云) :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 443524866,
+            "language": "TypeScript",
+            "last_commit": "2025-04-12T12:06:39Z",
+            "owner": "W4J1e",
+            "repo": "picgo-plugin-dogecloud",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-postimage",
+          "description": "An uploader for postimage :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 457621463,
+            "language": "JavaScript",
+            "last_commit": "2024-12-27T02:35:04Z",
+            "owner": "Redns",
+            "repo": "picgo-plugin-postimage",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-easypic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 457713835,
+            "language": "JavaScript",
+            "last_commit": "2024-03-15T15:21:22Z",
+            "owner": "Redns",
+            "repo": "picgo-plugin-easypic",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An uploader for My-Easy-Pic-Bed",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 313055204,
+            "language": "CSS",
+            "last_commit": "2022-04-15T02:48:33Z",
+            "owner": "fslongjin",
+            "repo": "My-Easy-Pic-Bed",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-imagebed",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 466761746,
+            "language": "JavaScript",
+            "last_commit": "2026-03-24T13:49:23Z",
+            "owner": "Redns",
+            "repo": "picgo-plugin-imagebed",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An uploader for ImageBed",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 466481041,
+            "language": "C#",
+            "last_commit": "2026-04-11T12:38:50Z",
+            "owner": "Redns",
+            "repo": "North",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-mmwiki",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 469989239,
+            "language": "JavaScript",
+            "last_commit": "2022-03-15T03:28:57Z",
+            "owner": "wowtalon",
+            "repo": "picgo-plugin-mmwiki",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An uploader for mm-wiki",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 136314388,
+            "language": "Go",
+            "last_commit": "2026-04-05T05:21:46Z",
+            "owner": "phachon",
+            "repo": "mm-wiki",
+            "stars": 3774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-lankong",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 472597802,
+            "language": "TypeScript",
+            "last_commit": "2023-11-09T04:19:55Z",
+            "owner": "hellodk34",
+            "repo": "picgo-plugin-lankong",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An uploader for 兰空图床 Lsky Pro",
+          "description": "支持 V1 和 V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 152772568,
+            "language": "Blade",
+            "last_commit": "2026-02-14T03:51:20Z",
+            "owner": "lsky-org",
+            "repo": "lsky-pro",
+            "stars": 4692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-lskypro-own",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1168182914,
+            "language": "TypeScript",
+            "last_commit": "2026-03-08T14:15:41Z",
+            "owner": "lemodragon",
+            "repo": "Picgo-Plugin-Lskypro",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An uploader for 兰空图床 Lsky Pro+",
+          "description": "支持 V1 和 V2(付费用户)，Token 自动处理，智能默认配置",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 152772568,
+            "language": "Blade",
+            "last_commit": "2026-02-14T03:51:20Z",
+            "owner": "lsky-org",
+            "repo": "lsky-pro",
+            "stars": 4692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-autobackup",
+          "description": "A plugin for image backup :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 459602566,
+            "language": "C#",
+            "last_commit": "2024-04-22T16:45:25Z",
+            "owner": "Redns",
+            "repo": "picgo-plugin-autobackup",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-squeeze",
+          "description": "A plugin for image compression that supports local compression, online compression, and custom compression rules :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 459523947,
+            "language": "JavaScript",
+            "last_commit": "2026-07-04T07:56:59Z",
+            "owner": "Redns",
+            "repo": "picgo-plugin-squeeze",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-rclone",
+          "description": "An uploader for RCLONE 联动RCLONE，支持本地备份/远端备份，支持40多种后端。 :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 478449380,
+            "language": "TypeScript",
+            "last_commit": "2022-04-27T02:52:50Z",
+            "owner": "yabostone",
+            "repo": "picgo-plugin-rclone",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-cloudinary",
+          "description": "An uploader for Cloudinary :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 484948754,
+            "language": "TypeScript",
+            "last_commit": "2022-04-24T09:47:37Z",
+            "owner": "yabostone",
+            "repo": "picgo-plugin-cloudinary",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-squoosh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 494172120,
+            "language": "JavaScript",
+            "last_commit": "2022-06-14T14:31:28Z",
+            "owner": "JolyneAnasui",
+            "repo": "picgo-plugin-squoosh",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A plugin for compressing image locally using @squoosh/lib",
+          "description": "and rename with md5",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124303364,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T01:52:18Z",
+            "owner": "GoogleChromeLabs",
+            "repo": "squoosh",
+            "stars": 25737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-onemanager",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 507795177,
+            "language": "JavaScript",
+            "last_commit": "2023-02-16T03:41:26Z",
+            "owner": "laoxinH",
+            "repo": "picgo-plugin-onemanager",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An uploader for onemanager",
+          "description": "联动onemanager将onedrive作为免费图床。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 230926110,
+            "language": "HTML",
+            "last_commit": "2026-04-30T05:32:55Z",
+            "owner": "qkqpttgf",
+            "repo": "OneManager-php",
+            "stars": 3800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-remove-exif",
+          "description": "Remove EXIF data before uploading 上传图片前移除EXIF数据 :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 512688805,
+            "language": "JavaScript",
+            "last_commit": "2023-09-12T08:50:34Z",
+            "owner": "hans362",
+            "repo": "picgo-plugin-remove-exif",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-ipfs",
+          "description": "An uploader for IPFS. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 540933539,
+            "language": "JavaScript",
+            "last_commit": "2022-09-24T19:01:08Z",
+            "owner": "KANIKIG",
+            "repo": "picgo-plugin-ipfs",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-alist",
+          "description": "An uploader for Alist 在picgo把alist作为图床 :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 546451179,
+            "language": "TypeScript",
+            "last_commit": "2025-02-18T15:57:51Z",
+            "owner": "jinzhi0123",
+            "repo": "picgo-plugin-alist",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-light-picture",
+          "description": "An uploader for Light Picture 适用于Light Picture图床 :x: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 559483910,
+            "language": "JavaScript",
+            "last_commit": "2022-10-31T06:40:33Z",
+            "owner": "ColdeZhang",
+            "repo": "picgo-plugin-light-picture",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-oss-outside-url",
+          "description": "A plugin for PicGo to get oss outside url 用于获取OSS私有空间资源外链的PicGo插件，支持阿里云OSS、腾讯云COS、七牛云Kodo :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 576467068,
+            "language": "TypeScript",
+            "last_commit": "2022-12-10T00:31:51Z",
+            "owner": "imcnchl",
+            "repo": "picgo-plugin-oss-outside-url",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-convert-heic",
+          "description": "Convert HEIC Photo to other formats (Currently only support converting to JPEG). :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 606129258,
+            "language": "TypeScript",
+            "last_commit": "2023-04-22T01:08:03Z",
+            "owner": "DingJunyao",
+            "repo": "picgo-plugin-convert-heic",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-azureimg",
+          "description": "An uploader for Azure Repo :white_check_mark: :x:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 613749950,
+            "language": "TypeScript",
+            "last_commit": "2023-03-16T02:34:38Z",
+            "owner": "YukiCoco",
+            "repo": "picgo-plugin-azureimg",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-free-uploader",
+          "description": "a picgo plug -in, support user custom script. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 608187871,
+            "language": "JavaScript",
+            "last_commit": "2023-09-02T12:21:17Z",
+            "owner": "yuanyxh",
+            "repo": "picgo-plugin-free-uploader",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-lsky-uploader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 607779931,
+            "language": "JavaScript",
+            "last_commit": "2024-12-03T08:14:34Z",
+            "owner": "Cusox",
+            "repo": "picgo-plugin-lsky-uploader",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An uploader for LskyPro",
+          "description": "适用于服务器自建兰空图床开源版",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 152772568,
+            "language": "Blade",
+            "last_commit": "2026-02-14T03:51:20Z",
+            "owner": "lsky-org",
+            "repo": "lsky-pro",
+            "stars": 4692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-gofile",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 637312674,
+            "language": "JavaScript",
+            "last_commit": "2023-05-17T07:15:43Z",
+            "owner": "songquanpeng",
+            "repo": "picgo-plugin-gofile",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An uploader for Go File",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 254016085,
+            "language": "HTML",
+            "last_commit": "2025-11-20T00:31:17Z",
+            "owner": "songquanpeng",
+            "repo": "go-file",
+            "stars": 1121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-gofile",
+          "description": "An uploader for 遇见图床. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 650212935,
+            "language": "JavaScript",
+            "last_commit": "2023-06-07T13:26:21Z",
+            "owner": "yibaiba",
+            "repo": "picgo-plugin-yujian",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-imgbb-uploader",
+          "description": "An uploader for Imgbb. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 651677904,
+            "language": "JavaScript",
+            "last_commit": "2023-06-11T08:29:32Z",
+            "owner": "cloudnzk",
+            "repo": "picgo-plugin-imgbb-uploader",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-lychee",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 679238485,
+            "language": "TypeScript",
+            "last_commit": "2024-06-01T06:49:33Z",
+            "owner": "ttionya",
+            "repo": "picgo-plugin-lychee",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An uploader for Lychee",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143975804,
+            "language": "PHP",
+            "last_commit": "2026-08-23T21:27:32Z",
+            "owner": "LycheeOrg",
+            "repo": "Lychee",
+            "stars": 4264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-simpletex",
+          "description": "An uploader for SimpleTex. Allow you to use LaTeX OCR based on SimpleTex. 基于 SimpleTex 的 LaTeX 光学字符识别，可以作为 MathPix 的替代品 :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 694608645,
+            "language": "JavaScript",
+            "last_commit": "2023-09-21T10:57:34Z",
+            "owner": "zhuozhiyongde",
+            "repo": "picgo-plugin-simpletex",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-gdrive",
+          "description": "An uploader for Google Drive. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 704417452,
+            "language": "TypeScript",
+            "last_commit": "2024-02-27T14:09:25Z",
+            "owner": "xinatcg",
+            "repo": "picgo-plugin-gdrive",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-oss-custom-headers",
+          "description": "A plugin for aliyun(oss) to custom headers. 阿里云OSS自定义请求头, 给OSS图床添加浏览器Http缓存. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 731707664,
+            "language": "JavaScript",
+            "last_commit": "2024-06-30T04:33:08Z",
+            "owner": "lunode",
+            "repo": "picgo-plugin-oss-custom-headers",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-freeimagehost-uploader",
+          "description": "An uploader for FreeImage.Host :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 729869312,
+            "language": "TypeScript",
+            "last_commit": "2023-12-10T15:56:35Z",
+            "owner": "quul",
+            "repo": "picgo-plugin-freeimagehost-uploader",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-telegraph-image-uploader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 748086514,
+            "language": "JavaScript",
+            "last_commit": "2024-03-24T06:53:31Z",
+            "owner": "msdx",
+            "repo": "picgo-plugin-telegraph-image-uploader",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An uploader for Any image host server built using Telegraph-Image",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 560101664,
+            "language": "HTML",
+            "last_commit": "2026-07-27T03:57:46Z",
+            "owner": "cf-pages",
+            "repo": "Telegraph-Image",
+            "stars": 4652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-cloudflare-telegraph",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 770138910,
+            "language": "JavaScript",
+            "last_commit": "2025-03-15T04:02:48Z",
+            "owner": "yanggithubcom",
+            "repo": "picgo-plugin-cloudflare-telegraph",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A plugin for Cloudflare Pages to host the Telegraph-Image project.适配Cloudflare Pages托管 Telegraph-Image",
+          "description": "项目的 PicGo 插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 560101664,
+            "language": "HTML",
+            "last_commit": "2026-07-27T03:57:46Z",
+            "owner": "cf-pages",
+            "repo": "Telegraph-Image",
+            "stars": 4652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-immich-uploader",
+          "description": "An uploader for immich :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 788284462,
+            "language": "JavaScript",
+            "last_commit": "2024-08-13T07:42:25Z",
+            "owner": "kyo-tom",
+            "repo": "picgo-plugin-immich-uploader",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-gitcode",
+          "description": "An uploader for gitcode :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 936094975,
+            "language": "JavaScript",
+            "last_commit": "2025-03-08T01:25:44Z",
+            "owner": "jianguo888",
+            "repo": "picgo-plugin-gitcode",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-onemanager-v2",
+          "description": "An uploader for onedrive 将onedrive作为免费图床。 :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 901210685,
+            "language": "JavaScript",
+            "last_commit": "2025-01-12T14:39:03Z",
+            "owner": "steven-jianhao-li",
+            "repo": "picgo-plugin-onemanager-v2",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-stardots",
+          "description": "An uploader for StarDots :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1025334465,
+            "language": "TypeScript",
+            "last_commit": "2025-07-29T06:48:21Z",
+            "owner": "stardots-io",
+            "repo": "picgo-plugin-stardots",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-avif",
+          "description": "Convert images to avif format before uploading for better web distribution. 图像上传前转换为avif格式，实现更好地网页分发 :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 862965664,
+            "language": "TypeScript",
+            "last_commit": "2024-09-27T00:52:33Z",
+            "owner": "Ryaang",
+            "repo": "picgo-plugin-avif",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-cloudflare-r2",
+          "description": "An uploader for cloudflare-R2 :white_check_mark: :x:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 870600340,
+            "language": "TypeScript",
+            "last_commit": "2026-04-20T06:41:38Z",
+            "owner": "JYbill",
+            "repo": "picgo-plugin-cloudflare-r2",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-ali",
+          "description": "An uploader for Ali. 用阿里速卖通作为图床 :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 885131874,
+            "language": "JavaScript",
+            "last_commit": "2024-11-08T03:24:14Z",
+            "owner": "Yukuiii",
+            "repo": "picgo-plugin-ali",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-oceanpic-uploader",
+          "description": "An uploader for OceanStorage which allows you to upload any image using OceanStorage as a host server. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 480200601,
+            "language": "JavaScript",
+            "last_commit": "2022-04-11T04:57:51Z",
+            "owner": "RicePasteM",
+            "repo": "Oceanpic-Uploader",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-123pan",
+          "description": "An uploader for 123pan（123云盘） :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 937205687,
+            "language": "JavaScript",
+            "last_commit": "2025-06-04T07:50:51Z",
+            "owner": "WhiteByeBye",
+            "repo": "picgo-plugin-123pan",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-imageflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 964699308,
+            "language": "TypeScript",
+            "last_commit": "2025-04-12T02:16:38Z",
+            "owner": "iWangJiaxiang",
+            "repo": "picgo-plugin-imageflow",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An uploader for imageflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 939125243,
+            "language": "TypeScript",
+            "last_commit": "2026-03-06T11:38:48Z",
+            "owner": "Yuri-NagaSaki",
+            "repo": "ImageFlow",
+            "stars": 611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-tos-upload",
+          "description": "An uploader for tos(火山云存储上传) :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 994055387,
+            "language": "JavaScript",
+            "last_commit": "2025-06-14T07:10:40Z",
+            "owner": "MissingDirection",
+            "repo": "picgo-plugin-tos-upload",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-wxmp-uploader",
+          "description": "An uploader for picgo-plugin-wxmp-uploader :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 999360370,
+            "language": "TypeScript",
+            "last_commit": "2025-12-12T01:10:14Z",
+            "owner": "zhoucha",
+            "repo": "picgo-plugin-wxmp-uploader",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-custom-api-uploader",
+          "description": "Customize API interface to upload images, Example: 16图床. 自定义 api 接口上传图片, 例如: 16图床. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1011293673,
+            "language": "JavaScript",
+            "last_commit": "2025-06-30T17:08:14Z",
+            "owner": "Layouwen",
+            "repo": "picgo-plugin-custom-api-uploader",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-multiple-backup",
+          "description": "A plugin for automatically backing up images to multiple storage services after successful upload to the primary host. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1036509585,
+            "language": "JavaScript",
+            "last_commit": "2025-08-13T02:05:19Z",
+            "owner": "2ue",
+            "repo": "picgo-plugin-multiple-backup",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-imgbox",
+          "description": "An uploader for imgbox :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1013680209,
+            "language": "JavaScript",
+            "last_commit": "2025-12-29T08:45:48Z",
+            "owner": "aquausora",
+            "repo": "picgo-plugin-imgbox",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-im.ge-uploader",
+          "description": "An uploader for im.ge :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1114932916,
+            "language": "TypeScript",
+            "last_commit": "2025-12-12T05:33:57Z",
+            "owner": "zhoucha",
+            "repo": "picgo-plugin-im.ge-uploader",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-compress-next",
+          "description": "A plugin for image compression for PicGo(>=^2.3.0). Update, adapt and optimize. Better support and richer features :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 836470536,
+            "language": "TypeScript",
+            "last_commit": "2024-08-07T08:30:18Z",
+            "owner": "supine0703",
+            "repo": "picgo-plugin-compress-next",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-watermark-elec",
+          "description": "A plugin for watermarking pictures. A fork version of picgo-picgo-plugin-watermark :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 603659015,
+            "language": "TypeScript",
+            "last_commit": "2024-03-29T03:47:35Z",
+            "owner": "terwer",
+            "repo": "picgo-plugin-watermark-elec",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-watermark-mrxn",
+          "description": "A plugin for advanced watermarking: full-image tiled rotation text watermark + spread-spectrum blind watermark. 【GUI v2.3.0+】 :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1214205809,
+            "language": "JavaScript",
+            "last_commit": "2026-05-05T14:42:37Z",
+            "owner": "Mr-xn",
+            "repo": "picgo-plugin-watermark-mrxn",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-cloudimgs-uploader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1117899862,
+            "language": "JavaScript",
+            "last_commit": "2026-07-29T03:15:51Z",
+            "owner": "qazzxxx",
+            "repo": "picgo-plugin-cloudimgs-uploader",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An uploader for 云图（cloudimgs)图床",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1010020008,
+            "language": "JavaScript",
+            "last_commit": "2026-08-21T01:09:04Z",
+            "owner": "qazzxxx",
+            "repo": "cloudimgs",
+            "stars": 985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-goofish",
+          "description": "An uploader for Goofish (闲鱼创作者平台) :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1128387012,
+            "language": "JavaScript",
+            "last_commit": "2026-01-05T17:25:49Z",
+            "owner": "Kwensiu",
+            "repo": "picgo-plugin-goofish",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-backblaze",
+          "description": "An uploader for Backblaze :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1155112161,
+            "language": "JavaScript",
+            "last_commit": "2026-06-29T07:18:54Z",
+            "owner": "cybershang",
+            "repo": "picgo-plugin-backblaze",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-gitea-uploader",
+          "description": "An uploader plugin for Gitea repository image hosting. :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1278101899,
+            "language": "TypeScript",
+            "last_commit": "2026-07-07T07:06:03Z",
+            "owner": "GeorgeHu6",
+            "repo": "picgo-plugin-gitea-uploader",
+            "stars": 0
+          }
+        }
+      ],
+      "title": ":rocket: Plugin for PicGo"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vs-picgo",
+          "description": "A VSCode plugin of",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 150125078,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T06:00:21Z",
+            "owner": "PicGo",
+            "repo": "vs-picgo",
+            "stars": 414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vscode-picgo-paste",
+          "description": "A VSCode extension that automatically uploads images via PicGo when pasting in Markdown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1105885399,
+            "language": "TypeScript",
+            "last_commit": "2025-11-29T15:42:49Z",
+            "owner": "zcyisiee",
+            "repo": "vscode-picgo-paste",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coc-picgo",
+          "description": "A Vim plugin of PicGo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 278396612,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T19:56:52Z",
+            "owner": "PLDaily",
+            "repo": "coc-picgo",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obsidian-image-auto-upload-plugin",
+          "description": "An Obsidian Editor plugin of PicGo and PicGo-Core",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357220374,
+            "language": "TypeScript",
+            "last_commit": "2024-11-28T05:52:51Z",
+            "owner": "renmu123",
+            "repo": "obsidian-image-auto-upload-plugin",
+            "stars": 473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "raycast-extension-picgo",
+          "description": "A Raycast extension to upload images via PicGo-Core",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1146543970,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T15:36:55Z",
+            "owner": "RUBisco0211",
+            "repo": "raycast-extension-picgo",
+            "stars": 0
+          }
+        }
+      ],
+      "title": ":hammer_and_wrench: Plugin for Other APPs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "giki-cli",
+          "description": "A CLI app for https://giki.app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 276931691,
+            "language": "TypeScript",
+            "last_commit": "2022-12-06T22:52:09Z",
+            "owner": "jwenjian",
+            "repo": "giki-cli",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nvim-picgo",
+          "description": "Picgo plugin for neovim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 484914579,
+            "language": "Lua",
+            "last_commit": "2026-03-26T09:43:01Z",
+            "owner": "askfiy",
+            "repo": "nvim-picgo",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PicList",
+          "description": "Advanced development based on PicGo. (基于PicGo的二次开发版本，增加了云存储管理和相册云端同步删除功能)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 584656916,
+            "language": "Vue",
+            "last_commit": "2026-08-16T13:32:51Z",
+            "owner": "Kuingsmile",
+            "repo": "PicList",
+            "stars": 3748
+          }
+        }
+      ],
+      "title": ":package: Project using PicGo-Core"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "flutter-picgo",
+          "description": "PicGo mobile app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272189500,
+            "language": "Dart",
+            "last_commit": "2021-06-03T06:21:52Z",
+            "owner": "PicGo",
+            "repo": "flutter-picgo",
+            "stars": 491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PicHoro",
+          "description": "Another PicGo mobile app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 544369464,
+            "language": "Dart",
+            "last_commit": "2026-01-05T14:53:49Z",
+            "owner": "Kuingsmile",
+            "repo": "PicHoro",
+            "stars": 1013
+          }
+        }
+      ],
+      "title": ":star: Apps supports PicGo Configuration"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T07:40:46.172Z",
+    "last_updated": "2026-08-24T14:08:33.082Z",
     "original_repository": "PicGo/Awesome-PicGo",
     "original_repository_id": 165874757,
     "original_repository_sha": "aec83a151889ee4cd05841da7b62c2efc5d1d749",
