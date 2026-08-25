@@ -705,7 +705,7 @@
             "last_commit": "2026-02-14T03:51:20Z",
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4692
+            "stars": 4691
           }
         },
         {
@@ -735,7 +735,7 @@
             "last_commit": "2026-02-14T03:51:20Z",
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4692
+            "stars": 4691
           }
         },
         {
@@ -825,7 +825,7 @@
             "last_commit": "2026-08-20T01:52:18Z",
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 25737
+            "stars": 25738
           }
         },
         {
@@ -1005,7 +1005,7 @@
             "last_commit": "2026-02-14T03:51:20Z",
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4692
+            "stars": 4691
           }
         },
         {
@@ -1092,10 +1092,10 @@
             "archived": false,
             "id": 143975804,
             "language": "PHP",
-            "last_commit": "2026-08-23T21:27:32Z",
+            "last_commit": "2026-08-24T22:04:48Z",
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4264
+            "stars": 4265
           }
         },
         {
@@ -1545,7 +1545,7 @@
             "last_commit": "2026-08-21T01:09:04Z",
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 985
+            "stars": 987
           }
         },
         {
@@ -1722,7 +1722,7 @@
             "last_commit": "2026-08-16T13:32:51Z",
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3748
+            "stars": 3746
           }
         }
       ],
@@ -1766,7 +1766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:08:33.082Z",
+    "last_updated": "2026-08-25T06:06:26.117Z",
     "original_repository": "PicGo/Awesome-PicGo",
     "original_repository_id": 165874757,
     "original_repository_sha": "aec83a151889ee4cd05841da7b62c2efc5d1d749",
