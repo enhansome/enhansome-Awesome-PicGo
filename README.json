@@ -705,7 +705,7 @@
             "last_commit": "2026-02-14T03:51:20Z",
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4691
+            "stars": 4692
           }
         },
         {
@@ -735,7 +735,7 @@
             "last_commit": "2026-02-14T03:51:20Z",
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4691
+            "stars": 4692
           }
         },
         {
@@ -825,7 +825,7 @@
             "last_commit": "2026-08-20T01:52:18Z",
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 25739
+            "stars": 25744
           }
         },
         {
@@ -1005,7 +1005,7 @@
             "last_commit": "2026-02-14T03:51:20Z",
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4691
+            "stars": 4692
           }
         },
         {
@@ -1092,7 +1092,7 @@
             "archived": false,
             "id": 143975804,
             "language": "PHP",
-            "last_commit": "2026-08-25T07:06:43Z",
+            "last_commit": "2026-08-26T07:13:26Z",
             "owner": "LycheeOrg",
             "repo": "Lychee",
             "stars": 4265
@@ -1185,7 +1185,7 @@
             "last_commit": "2026-07-27T03:57:46Z",
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4653
+            "stars": 4655
           }
         },
         {
@@ -1215,7 +1215,7 @@
             "last_commit": "2026-07-27T03:57:46Z",
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4653
+            "stars": 4655
           }
         },
         {
@@ -1545,7 +1545,7 @@
             "last_commit": "2026-08-21T01:09:04Z",
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 987
+            "stars": 990
           }
         },
         {
@@ -1722,7 +1722,7 @@
             "last_commit": "2026-08-16T13:32:51Z",
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3747
+            "stars": 3748
           }
         }
       ],
@@ -1758,7 +1758,7 @@
             "last_commit": "2026-01-05T14:53:49Z",
             "owner": "Kuingsmile",
             "repo": "PicHoro",
-            "stars": 1013
+            "stars": 1014
           }
         }
       ],
@@ -1766,7 +1766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:27:12.329Z",
+    "last_updated": "2026-08-26T07:28:36.351Z",
     "original_repository": "PicGo/Awesome-PicGo",
     "original_repository_id": 165874757,
     "original_repository_sha": "aec83a151889ee4cd05841da7b62c2efc5d1d749",
