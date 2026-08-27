@@ -300,7 +300,7 @@
             "last_commit": "2023-04-21T04:19:35Z",
             "owner": "juzisang",
             "repo": "picgo-plugin-compress",
-            "stars": 148
+            "stars": 149
           }
         },
         {
@@ -705,7 +705,7 @@
             "last_commit": "2026-02-14T03:51:20Z",
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4692
+            "stars": 4694
           }
         },
         {
@@ -735,7 +735,7 @@
             "last_commit": "2026-02-14T03:51:20Z",
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4692
+            "stars": 4694
           }
         },
         {
@@ -822,10 +822,10 @@
             "archived": false,
             "id": 124303364,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T01:52:18Z",
+            "last_commit": "2026-08-27T11:05:09Z",
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 25744
+            "stars": 25750
           }
         },
         {
@@ -1005,7 +1005,7 @@
             "last_commit": "2026-02-14T03:51:20Z",
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4692
+            "stars": 4694
           }
         },
         {
@@ -1092,7 +1092,7 @@
             "archived": false,
             "id": 143975804,
             "language": "PHP",
-            "last_commit": "2026-08-26T07:13:26Z",
+            "last_commit": "2026-08-26T22:47:16Z",
             "owner": "LycheeOrg",
             "repo": "Lychee",
             "stars": 4265
@@ -1185,7 +1185,7 @@
             "last_commit": "2026-07-27T03:57:46Z",
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4655
+            "stars": 4657
           }
         },
         {
@@ -1215,7 +1215,7 @@
             "last_commit": "2026-07-27T03:57:46Z",
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4655
+            "stars": 4657
           }
         },
         {
@@ -1545,7 +1545,7 @@
             "last_commit": "2026-08-21T01:09:04Z",
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 990
+            "stars": 998
           }
         },
         {
@@ -1719,10 +1719,10 @@
             "archived": false,
             "id": 584656916,
             "language": "Vue",
-            "last_commit": "2026-08-16T13:32:51Z",
+            "last_commit": "2026-08-26T16:58:13Z",
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3748
+            "stars": 3747
           }
         }
       ],
@@ -1743,7 +1743,7 @@
             "last_commit": "2021-06-03T06:21:52Z",
             "owner": "PicGo",
             "repo": "flutter-picgo",
-            "stars": 491
+            "stars": 490
           }
         },
         {
@@ -1758,7 +1758,7 @@
             "last_commit": "2026-01-05T14:53:49Z",
             "owner": "Kuingsmile",
             "repo": "PicHoro",
-            "stars": 1014
+            "stars": 1013
           }
         }
       ],
@@ -1766,9 +1766,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:28:36.351Z",
-    "original_repository": "PicGo/Awesome-PicGo",
-    "original_repository_id": 165874757,
+    "last_updated": "2026-08-27T11:23:48.998Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 165874757,
+      "language": null,
+      "last_commit": "2026-08-17T07:02:03Z",
+      "owner": "PicGo",
+      "repo": "Awesome-PicGo",
+      "stars": 1720
+    },
     "original_repository_sha": "aec83a151889ee4cd05841da7b62c2efc5d1d749",
     "enhanced_repository": "enhansome/enhansome-Awesome-PicGo",
     "enhanced_repository_description": null,
