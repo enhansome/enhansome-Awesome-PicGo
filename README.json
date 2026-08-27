@@ -705,7 +705,7 @@
             "last_commit": "2026-02-14T03:51:20Z",
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4694
+            "stars": 4695
           }
         },
         {
@@ -735,7 +735,7 @@
             "last_commit": "2026-02-14T03:51:20Z",
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4694
+            "stars": 4695
           }
         },
         {
@@ -822,10 +822,10 @@
             "archived": false,
             "id": 124303364,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:05:09Z",
+            "last_commit": "2026-08-27T16:58:43Z",
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 25750
+            "stars": 25753
           }
         },
         {
@@ -1005,7 +1005,7 @@
             "last_commit": "2026-02-14T03:51:20Z",
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4694
+            "stars": 4695
           }
         },
         {
@@ -1095,7 +1095,7 @@
             "last_commit": "2026-08-26T22:47:16Z",
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4265
+            "stars": 4266
           }
         },
         {
@@ -1722,7 +1722,7 @@
             "last_commit": "2026-08-26T16:58:13Z",
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3747
+            "stars": 3748
           }
         }
       ],
@@ -1766,7 +1766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:23:48.998Z",
+    "last_updated": "2026-08-27T17:52:17.572Z",
     "original_repository_info": {
       "archived": false,
       "id": 165874757,
