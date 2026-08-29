@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A picgo plugin for auto copying url to clipboard after uploading",
+            "homepage": null,
             "id": 149581887,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-01-14T14:10:14Z",
+            "open_issues": 1,
             "owner": "PicGo",
             "repo": "picgo-plugin-autocopy",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "cli-only",
+              "picgo",
+              "picgo-plugin",
+              "picgo-plugin-autocopy"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -26,12 +36,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "picgo uploader for github",
+            "homepage": null,
             "id": 165809498,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-08T16:19:20Z",
+            "open_issues": 17,
             "owner": "zWingz",
             "repo": "picgo-plugin-github-plus",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -42,12 +57,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":truck:A PicGo plugin for pictures in markdown files migrating from one image host to another one.",
+            "homepage": null,
             "id": 166678902,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-04T08:15:54Z",
+            "open_issues": 7,
             "owner": "PicGo",
             "repo": "picgo-plugin-pic-migrater",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "image-migrator",
+              "picgo",
+              "picgo-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -58,12 +82,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 172873387,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-04-15T06:24:39Z",
+            "open_issues": 11,
             "owner": "yuki-xin",
             "repo": "picgo-plugin-web-uploader",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -74,12 +103,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for PicGo with the addition of the QingStor image hosting.",
+            "homepage": null,
             "id": 174180374,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T14:36:01Z",
+            "open_issues": 0,
             "owner": "chengww5217",
             "repo": "picgo-plugin-qingstor-uploader",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -90,12 +124,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":wrench: Migrate images between vs-picgo and PicGo.",
+            "homepage": null,
             "id": 178881403,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-07-07T05:00:17Z",
+            "open_issues": 1,
             "owner": "upupming",
             "repo": "picgo-plugin-vscode-migrator",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "picgo",
+              "picgo-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -106,12 +148,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A VSCode plugin of PicGo",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=Spades.vs-picgo",
             "id": 150125078,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T06:00:21Z",
+            "open_issues": 36,
             "owner": "PicGo",
             "repo": "vs-picgo",
-            "stars": 414
+            "stars": 414,
+            "topics": [
+              "image-upload",
+              "picgo",
+              "picgo-plugin",
+              "vs-picgo",
+              "vscode-extension",
+              "writing"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -122,12 +176,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PicGo plugin for elegant file name prefix",
+            "homepage": null,
             "id": 222287066,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-11-14T19:49:19Z",
+            "open_issues": 13,
             "owner": "gclove",
             "repo": "picgo-plugin-super-prefix",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "picgo",
+              "picgo-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -138,12 +200,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a plugin for picgo for SM.MS",
+            "homepage": null,
             "id": 210316545,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-09-09T07:46:53Z",
+            "open_issues": 1,
             "owner": "xlzy520",
             "repo": "picgo-plugin-smms-user",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "picgo-plugin",
+              "smms"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -154,12 +224,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fork from yuki-xin/picgo-plugin-web-uploader",
+            "homepage": null,
             "id": 209922529,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-09-22T07:03:11Z",
+            "open_issues": 3,
             "owner": "bugwz",
             "repo": "picgo-plugin-gitlab",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -170,12 +245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PicGo 向 Gitlab 的指定项目中上传图片",
+            "homepage": null,
             "id": 332162611,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-11-14T11:41:46Z",
+            "open_issues": 1,
             "owner": "d-w-x",
             "repo": "picgo-plugin-gitlab-files",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -186,12 +266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "picgo uploader for gitee",
+            "homepage": null,
             "id": 214855575,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-25T10:05:25Z",
+            "open_issues": 2,
             "owner": "zhanghuid",
             "repo": "picgo-plugin-gitee",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -202,12 +287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "picgo uploader for gitee",
+            "homepage": null,
             "id": 191017257,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-06-23T08:42:43Z",
+            "open_issues": 8,
             "owner": "lizhuangs",
             "repo": "picgo-plugin-gitee-uploader",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -218,12 +308,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "picgo plugin for nextcloud",
+            "homepage": null,
             "id": 228947877,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-27T09:03:22Z",
+            "open_issues": 6,
             "owner": "jiajiajia343434",
             "repo": "picgo-plugin-nextcloud-uploader",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "nextcloud",
+              "picgo",
+              "picgo-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -234,12 +333,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PicGo's watermark plugin",
+            "homepage": null,
             "id": 229172348,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-12-26T16:00:40Z",
+            "open_issues": 20,
             "owner": "fhyoga",
             "repo": "picgo-plugin-watermark",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -250,12 +354,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A quick capture screenshot plugin for PicGo",
+            "homepage": null,
             "id": 230475429,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-10T13:17:57Z",
+            "open_issues": 13,
             "owner": "PicGo",
             "repo": "picgo-plugin-quick-capture",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "picgo-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -266,12 +377,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 237565435,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-10T16:43:58Z",
+            "open_issues": 11,
             "owner": "CaiJingLong",
             "repo": "picgo-plugin-azure",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -282,12 +398,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 247609405,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-08-05T19:53:00Z",
+            "open_issues": 0,
             "owner": "billow-archive",
             "repo": "picgo-plugin-sharp",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -298,12 +419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "picgo uploader for coding.net",
+            "homepage": null,
             "id": 257949537,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-04T13:51:40Z",
+            "open_issues": 17,
             "owner": "zytomorrow",
             "repo": "picgo-plugin-coding",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -314,12 +440,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image compression plugin for PicGo",
+            "homepage": null,
             "id": 257154960,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-04-21T04:19:35Z",
+            "open_issues": 30,
             "owner": "juzisang",
             "repo": "picgo-plugin-compress",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "picgo",
+              "picgo-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -330,12 +464,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1186144684,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-03-22T13:02:07Z",
+            "open_issues": 0,
             "owner": "rumosky",
             "repo": "picgo-plugin-compress-pro",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -346,12 +485,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "picgo uploader for wxcloud (picGo 微信小程序云开发云存储图床 ~)",
+            "homepage": null,
             "id": 258067779,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-04-23T09:02:41Z",
+            "open_issues": 0,
             "owner": "arleyGuoLei",
             "repo": "picgo-plugin-wxcloud-uploader",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -362,12 +506,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use part of the local address of the file as part of the cloud address - 将文件的部分本地地址，作为部分云端地址",
+            "homepage": null,
             "id": 271044703,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-04-13T15:53:30Z",
+            "open_issues": 0,
             "owner": "evgo2017",
             "repo": "picgo-plugin-folder-name",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "picgo",
+              "picgo-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -378,12 +530,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 275634309,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-06-28T17:28:02Z",
+            "open_issues": 1,
             "owner": "karboom",
             "repo": "picgo-plugin-dir-prefix",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -394,12 +551,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PicGo plugin for elegant file name prefix",
+            "homepage": null,
             "id": 282113545,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-05-27T16:29:48Z",
+            "open_issues": 17,
             "owner": "liuwave",
             "repo": "picgo-plugin-rename-file",
-            "stars": 111
+            "stars": 111,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -410,12 +572,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PicGo plugin for ucloud",
+            "homepage": null,
             "id": 288492725,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-08-20T13:05:24Z",
+            "open_issues": 0,
             "owner": "Wsine",
             "repo": "picgo-plugin-ucloud",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -426,12 +593,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a picgo plugin for UCloud.",
+            "homepage": null,
             "id": 293231613,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-28T08:42:58Z",
+            "open_issues": 0,
             "owner": "xizeyoupan",
             "repo": "picgo-plugin-UCloud-uploader",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "picgo",
+              "picgo-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -442,12 +617,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PicGo FTP 上传插件",
+            "homepage": null,
             "id": 326997053,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-07-16T16:23:50Z",
+            "open_issues": 4,
             "owner": "imba97",
             "repo": "picgo-plugin-ftp-uploader",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "ftp",
+              "picgo",
+              "picgo-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -458,12 +642,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PicGo 插件 SFTP 上传",
+            "homepage": null,
             "id": 327386447,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-06T17:08:08Z",
+            "open_issues": 4,
             "owner": "imba97",
             "repo": "picgo-plugin-sftp-uploader",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "picgo",
+              "picgo-plugin",
+              "sftp"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -474,12 +667,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PicGo S3 插件",
+            "homepage": null,
             "id": 336545959,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-15T05:24:40Z",
+            "open_issues": 10,
             "owner": "wayjam",
             "repo": "picgo-plugin-s3",
-            "stars": 235
+            "stars": 235,
+            "topics": [
+              "aws",
+              "picgo",
+              "picgo-plugin",
+              "s3"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -490,12 +693,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "S3-compatible PicGo uploader that emits imgproxy-friendly source metadata",
+            "homepage": null,
             "id": 1190924779,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-31T21:16:15Z",
+            "open_issues": 0,
             "owner": "eyunzhu",
             "repo": "picgo-plugin-s3-uploader",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -506,12 +714,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Replace PicGo copied URLs with imgproxy signed URLs after upload",
+            "homepage": null,
             "id": 1190934168,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-25T18:06:45Z",
+            "open_issues": 0,
             "owner": "eyunzhu",
             "repo": "picgo-plugin-imgproxy",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -522,12 +735,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 344679492,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-11-26T02:29:33Z",
+            "open_issues": 7,
             "owner": "Herbertzz",
             "repo": "picgo-plugin-minio",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -538,12 +756,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "picgo华为云对象存储图床",
+            "homepage": null,
             "id": 366426198,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-01-20T10:15:38Z",
+            "open_issues": 0,
             "owner": "YunfengGao",
             "repo": "picgo-plugin-huawei-uploader",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -554,12 +777,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 420570485,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-02-14T03:11:18Z",
+            "open_issues": 0,
             "owner": "foraixh",
             "repo": "picgo-plugin-halo-uploader",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -570,12 +798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloudflare Images + Picgo uploader plugin",
+            "homepage": null,
             "id": 428625445,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-11-16T15:01:56Z",
+            "open_issues": 0,
             "owner": "boeto",
             "repo": "picgo-plugin-cfi-uploader",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -586,12 +819,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "picgo auto delete file when upload success",
+            "homepage": null,
             "id": 431311365,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-11-28T06:55:01Z",
+            "open_issues": 0,
             "owner": "Zorabi",
             "repo": "picgo-plugin-auto-delete",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -602,12 +840,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个上传图片到多吉云存储的picgo插件。",
+            "homepage": null,
             "id": 443524866,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-12T12:06:39Z",
+            "open_issues": 0,
             "owner": "W4J1e",
             "repo": "picgo-plugin-dogecloud",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -618,12 +861,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An uploader for postimage.",
+            "homepage": null,
             "id": 457621463,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-12-27T02:35:04Z",
+            "open_issues": 0,
             "owner": "Redns",
             "repo": "picgo-plugin-postimage",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -634,12 +882,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An uploader for easypic.",
+            "homepage": null,
             "id": 457713835,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-15T15:21:22Z",
+            "open_issues": 0,
             "owner": "Redns",
             "repo": "picgo-plugin-easypic",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -650,12 +903,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个轻量级的图床程序",
+            "homepage": null,
             "id": 313055204,
             "language": "CSS",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-15T02:48:33Z",
+            "open_issues": 3,
             "owner": "fslongjin",
             "repo": "My-Easy-Pic-Bed",
-            "stars": 159
+            "stars": 159,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -666,12 +924,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 ImageBed 的 picgo 插件",
+            "homepage": null,
             "id": 466761746,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-24T13:49:23Z",
+            "open_issues": 0,
             "owner": "Redns",
             "repo": "picgo-plugin-imagebed",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "imagebed",
+              "picgo",
+              "picgo-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -682,12 +949,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个易于搭建的图床服务",
+            "homepage": "https://north.krins.cloud",
             "id": 466481041,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-04-11T12:38:50Z",
+            "open_issues": 5,
             "owner": "Redns",
             "repo": "North",
-            "stars": 145
+            "stars": 145,
+            "topics": [
+              "blazor-server",
+              "imagehost",
+              "picgo"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -698,12 +974,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 469989239,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-03-15T03:28:57Z",
+            "open_issues": 0,
             "owner": "wowtalon",
             "repo": "picgo-plugin-mmwiki",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -714,12 +995,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MM-Wiki 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。",
+            "homepage": null,
             "id": 136314388,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-04-05T05:21:46Z",
+            "open_issues": 175,
             "owner": "phachon",
             "repo": "mm-wiki",
-            "stars": 3774
+            "stars": 3774,
+            "topics": [
+              "api-docs",
+              "confluence",
+              "docs",
+              "document-management",
+              "documentation",
+              "documents",
+              "documentserver",
+              "dokuwiki",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -730,12 +1026,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PicGo uploader for 兰空图床 lsky-pro，支持 V1 和 V2。",
+            "homepage": null,
             "id": 472597802,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-11-09T04:19:55Z",
+            "open_issues": 5,
             "owner": "hellodk34",
             "repo": "picgo-plugin-lankong",
-            "stars": 166
+            "stars": 166,
+            "topics": [
+              "picgo",
+              "picgo-plugin",
+              "picgo-plugin-autocopy",
+              "picgobed"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -746,12 +1052,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "☁️兰空图床(Lsky Pro) - Your photo album on the cloud.",
+            "homepage": "https://www.lsky.pro",
             "id": 152772568,
             "language": "Blade",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-14T03:51:20Z",
+            "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4694
+            "stars": 4694,
+            "topics": [
+              "cloud",
+              "image-store",
+              "images",
+              "laravel",
+              "lsky",
+              "mdui",
+              "photo-album",
+              "php",
+              "picture"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -762,12 +1083,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "适用于PicGO插件的Lsky pro+付费用户群体",
+            "homepage": null,
             "id": 1168182914,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-08T14:15:41Z",
+            "open_issues": 0,
             "owner": "lemodragon",
             "repo": "Picgo-Plugin-Lskypro",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -778,12 +1104,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "☁️兰空图床(Lsky Pro) - Your photo album on the cloud.",
+            "homepage": "https://www.lsky.pro",
             "id": 152772568,
             "language": "Blade",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-14T03:51:20Z",
+            "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4694
+            "stars": 4694,
+            "topics": [
+              "cloud",
+              "image-store",
+              "images",
+              "laravel",
+              "lsky",
+              "mdui",
+              "photo-album",
+              "php",
+              "picture"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -794,12 +1135,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PicGo 图片上传备份插件",
+            "homepage": null,
             "id": 459602566,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-04-22T16:45:25Z",
+            "open_issues": 2,
             "owner": "Redns",
             "repo": "picgo-plugin-autobackup",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "autobackup",
+              "picgo",
+              "picgo-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -810,12 +1160,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 sharp、TinyPNG 和 “色彩笔” 的 PicGo 图片压缩插件，支持本地压缩、在线压缩和自定义压缩规则",
+            "homepage": null,
             "id": 459523947,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-04T07:56:59Z",
+            "open_issues": 1,
             "owner": "Redns",
             "repo": "picgo-plugin-squeeze",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -826,12 +1181,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "调用rclone命令实现上传",
+            "homepage": null,
             "id": 478449380,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-27T02:52:50Z",
+            "open_issues": 5,
             "owner": "yabostone",
             "repo": "picgo-plugin-rclone",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -842,12 +1202,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A uploader for cloudinary",
+            "homepage": null,
             "id": 484948754,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-24T09:47:37Z",
+            "open_issues": 1,
             "owner": "yabostone",
             "repo": "picgo-plugin-cloudinary",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -858,12 +1223,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plugin for PicGo",
+            "homepage": null,
             "id": 494172120,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-06-14T14:31:28Z",
+            "open_issues": 3,
             "owner": "JolyneAnasui",
             "repo": "picgo-plugin-squoosh",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -874,12 +1244,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make images smaller using best-in-class codecs, right in the browser.",
+            "homepage": "https://squoosh.app",
             "id": 124303364,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T09:33:49Z",
+            "open_issues": 260,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 25755
+            "stars": 25757,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -890,12 +1265,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个通过onemanager将图片上传到onedrive的PicGo插件",
+            "homepage": null,
             "id": 507795177,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-16T03:41:26Z",
+            "open_issues": 5,
             "owner": "laoxinH",
             "repo": "picgo-plugin-onemanager",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -906,12 +1286,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An index & manager of Onedrive based on serverless. Can be deployed to Vercel/Heroku/SCF/FG/FC/CFC/PHP web hosting/VPS.",
+            "homepage": null,
             "id": 230926110,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-04-30T05:32:55Z",
+            "open_issues": 12,
             "owner": "qkqpttgf",
             "repo": "OneManager-php",
-            "stars": 3801
+            "stars": 3800,
+            "topics": [
+              "aliyun-fc",
+              "baidu-cfc",
+              "cfc",
+              "fc",
+              "fg",
+              "heroku",
+              "huaweicloud-fg",
+              "onedrive",
+              "onemanager",
+              "scf",
+              "serverless",
+              "sharepoint",
+              "tencent-scf",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -922,12 +1322,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remove EXIF data before uploading",
+            "homepage": null,
             "id": 512688805,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-12T08:50:34Z",
+            "open_issues": 2,
             "owner": "hans362",
             "repo": "picgo-plugin-remove-exif",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -938,12 +1343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "picgo plugin for ipfs",
+            "homepage": null,
             "id": 540933539,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-09-24T19:01:08Z",
+            "open_issues": 0,
             "owner": "KANIKIG",
             "repo": "picgo-plugin-ipfs",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -954,12 +1364,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a picgo uploader for alist 在picgo把alist作为图床",
+            "homepage": null,
             "id": 546451179,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-02-18T15:57:51Z",
+            "open_issues": 5,
             "owner": "jinzhi0123",
             "repo": "picgo-plugin-alist",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "alist",
+              "picgo",
+              "picgo-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -970,12 +1389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "为 PicGo 开发的一款插件，用于 LightPicture 图床。",
+            "homepage": null,
             "id": 559483910,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-10-31T06:40:33Z",
+            "open_issues": 0,
             "owner": "ColdeZhang",
             "repo": "picgo-plugin-light-picture",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -986,12 +1410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "将OSS的私有资源链接转成外链的PicGo插件，支持阿里云OSS、腾讯云COS、七牛云Kodo 注意：该插件没有充分测试网址后缀的场景，设置了网址后缀可能会导致非预期的结果发生",
+            "homepage": null,
             "id": 576467068,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-10T00:31:51Z",
+            "open_issues": 0,
             "owner": "imcnchl",
             "repo": "picgo-plugin-oss-outside-url",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1002,12 +1431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert HEIC Photo to other formats (eg. JPEG) when uploading photos by PicGo.",
+            "homepage": null,
             "id": 606129258,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-04-22T01:08:03Z",
+            "open_issues": 0,
             "owner": "DingJunyao",
             "repo": "picgo-plugin-convert-heic",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1018,12 +1452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 613749950,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-16T02:34:38Z",
+            "open_issues": 0,
             "owner": "YukiCoco",
             "repo": "picgo-plugin-azureimg",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1034,12 +1473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a PicGo custom uploader plugin, use it to uploader your images",
+            "homepage": "https://yuanyxh.com/",
             "id": 608187871,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-02T12:21:17Z",
+            "open_issues": 0,
             "owner": "yuanyxh",
             "repo": "picgo-plugin-free-uploader",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1050,12 +1494,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "picgo插件，用于lskypro兰空图床上传",
+            "homepage": null,
             "id": 607779931,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-12-03T08:14:34Z",
+            "open_issues": 0,
             "owner": "Cusox",
             "repo": "picgo-plugin-lsky-uploader",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1066,12 +1515,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "☁️兰空图床(Lsky Pro) - Your photo album on the cloud.",
+            "homepage": "https://www.lsky.pro",
             "id": 152772568,
             "language": "Blade",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-14T03:51:20Z",
+            "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4694
+            "stars": 4694,
+            "topics": [
+              "cloud",
+              "image-store",
+              "images",
+              "laravel",
+              "lsky",
+              "mdui",
+              "photo-album",
+              "php",
+              "picture"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1082,12 +1546,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PicGo plugin for Go File",
+            "homepage": null,
             "id": 637312674,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-05-17T07:15:43Z",
+            "open_issues": 0,
             "owner": "songquanpeng",
             "repo": "picgo-plugin-gofile",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1098,12 +1567,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.",
+            "homepage": "https://go-file.onrender.com",
             "id": 254016085,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-11-20T00:31:17Z",
+            "open_issues": 20,
             "owner": "songquanpeng",
             "repo": "go-file",
-            "stars": 1121
+            "stars": 1121,
+            "topics": [
+              "file-share",
+              "go-file",
+              "golang",
+              "lan-share"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1114,12 +1593,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 650212935,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-06-07T13:26:21Z",
+            "open_issues": 0,
             "owner": "yibaiba",
             "repo": "picgo-plugin-yujian",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1130,12 +1614,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An picgo uploader for Imgbb.",
+            "homepage": null,
             "id": 651677904,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-06-11T08:29:32Z",
+            "open_issues": 0,
             "owner": "cloudnzk",
             "repo": "picgo-plugin-imgbb-uploader",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1146,12 +1635,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PicGo plugin for uploading to Lychee.",
+            "homepage": null,
             "id": 679238485,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-06-01T06:49:33Z",
+            "open_issues": 1,
             "owner": "ttionya",
             "repo": "picgo-plugin-lychee",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "lychee",
+              "picgo",
+              "picgo-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1162,12 +1660,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.",
+            "homepage": "https://lycheeorg.dev",
             "id": 143975804,
             "language": "PHP",
-            "last_commit": "2026-08-28T16:07:48Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:06:26Z",
+            "open_issues": 38,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4267
+            "stars": 4267,
+            "topics": [
+              "gallery",
+              "hacktoberfest",
+              "photo-gallery",
+              "photo-gallery-application",
+              "photo-management",
+              "photos",
+              "php",
+              "typescript",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1178,12 +1691,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SimpleTex LaTeX OCR for PicGo.",
+            "homepage": null,
             "id": 694608645,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-21T10:57:34Z",
+            "open_issues": 0,
             "owner": "zhuozhiyongde",
             "repo": "picgo-plugin-simpletex",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1194,12 +1712,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 704417452,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-02-27T14:09:25Z",
+            "open_issues": 1,
             "owner": "xinatcg",
             "repo": "picgo-plugin-gdrive",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1210,12 +1733,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A picgo plugin for custom oss put headers",
+            "homepage": null,
             "id": 731707664,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-30T04:33:08Z",
+            "open_issues": 1,
             "owner": "lunode",
             "repo": "picgo-plugin-oss-custom-headers",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1226,12 +1754,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 729869312,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-12-10T15:56:35Z",
+            "open_issues": 0,
             "owner": "quul",
             "repo": "picgo-plugin-freeimagehost-uploader",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1242,12 +1775,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The unversal uploader plugin for image host server built using Telegraph-Image",
+            "homepage": null,
             "id": 748086514,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-24T06:53:31Z",
+            "open_issues": 0,
             "owner": "msdx",
             "repo": "picgo-plugin-telegraph-image-uploader",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1258,12 +1796,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.",
+            "homepage": "https://im.gurl.eu.org",
             "id": 560101664,
             "language": "HTML",
+            "license": "CC0-1.0",
             "last_commit": "2026-07-27T03:57:46Z",
+            "open_issues": 26,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4657
+            "stars": 4657,
+            "topics": [
+              "cloudflare",
+              "cloudflare-pages",
+              "flickr",
+              "image",
+              "image-host",
+              "image-hosting",
+              "image-sharing",
+              "imgur",
+              "serverless",
+              "telegraph",
+              "upload-images"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1274,12 +1829,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for Cloudflare Pages to host the Telegraph-Image project.",
+            "homepage": "https://github.com/cf-pages/Telegraph-Image",
             "id": 770138910,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-15T04:02:48Z",
+            "open_issues": 0,
             "owner": "yanggithubcom",
             "repo": "picgo-plugin-cloudflare-telegraph",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1290,12 +1850,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.",
+            "homepage": "https://im.gurl.eu.org",
             "id": 560101664,
             "language": "HTML",
+            "license": "CC0-1.0",
             "last_commit": "2026-07-27T03:57:46Z",
+            "open_issues": 26,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4657
+            "stars": 4657,
+            "topics": [
+              "cloudflare",
+              "cloudflare-pages",
+              "flickr",
+              "image",
+              "image-host",
+              "image-hosting",
+              "image-sharing",
+              "imgur",
+              "serverless",
+              "telegraph",
+              "upload-images"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1306,12 +1883,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 788284462,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-13T07:42:25Z",
+            "open_issues": 0,
             "owner": "kyo-tom",
             "repo": "picgo-plugin-immich-uploader",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1322,12 +1904,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "picgo uploader for gitcode",
+            "homepage": null,
             "id": 936094975,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-08T01:25:44Z",
+            "open_issues": 0,
             "owner": "jianguo888",
             "repo": "picgo-plugin-gitcode",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1338,12 +1925,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PicGo插件，使用OneDrive作为图床。",
+            "homepage": null,
             "id": 901210685,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-01-12T14:39:03Z",
+            "open_issues": 0,
             "owner": "steven-jianhao-li",
             "repo": "picgo-plugin-onemanager-v2",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1354,12 +1946,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PicGo plugin for StarDots",
+            "homepage": "https://stardots.io",
             "id": 1025334465,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-07-29T06:48:21Z",
+            "open_issues": 0,
             "owner": "stardots-io",
             "repo": "picgo-plugin-stardots",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "picgo",
+              "picgo-plugin",
+              "picgo-plugin-stardots"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1370,12 +1971,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Covert image to avif format before uploading | 上传前将图像转换为avif格式",
+            "homepage": null,
             "id": 862965664,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-09-27T00:52:33Z",
+            "open_issues": 0,
             "owner": "Ryaang",
             "repo": "picgo-plugin-avif",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "avif",
+              "picgo",
+              "picgo-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1386,12 +1996,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "picgo cloudflare-r2 stroage bucket plugin",
+            "homepage": null,
             "id": 870600340,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-20T06:41:38Z",
+            "open_issues": 0,
             "owner": "JYbill",
             "repo": "picgo-plugin-cloudflare-r2",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1402,12 +2017,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一款为PicGo开发的插件，用于快速上传图片至阿里图床",
+            "homepage": null,
             "id": 885131874,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-11-08T03:24:14Z",
+            "open_issues": 0,
             "owner": "Yukuiii",
             "repo": "picgo-plugin-ali",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1418,12 +2038,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Picgo uploader plugin for OceanPic.",
+            "homepage": null,
             "id": 480200601,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-04-11T04:57:51Z",
+            "open_issues": 0,
             "owner": "RicePasteM",
             "repo": "Oceanpic-Uploader",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1434,12 +2059,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PicGo plugin for 123pan, aka. 123云盘",
+            "homepage": null,
             "id": 937205687,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-06-04T07:50:51Z",
+            "open_issues": 3,
             "owner": "WhiteByeBye",
             "repo": "picgo-plugin-123pan",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1450,12 +2080,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image upload plugin for ImageFlow",
+            "homepage": null,
             "id": 964699308,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-12T02:16:38Z",
+            "open_issues": 0,
             "owner": "iWangJiaxiang",
             "repo": "picgo-plugin-imageflow",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "image-hosting",
+              "imageflow",
+              "picgo",
+              "picgo-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1466,12 +2106,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern Image Service System",
+            "homepage": "https://imageflowdoc.sakiko.de/",
             "id": 939125243,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-06T11:38:48Z",
+            "open_issues": 0,
             "owner": "Yuri-NagaSaki",
             "repo": "ImageFlow",
-            "stars": 611
+            "stars": 611,
+            "topics": [
+              "photos",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1482,12 +2130,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a picgo plugin for tos  upload",
+            "homepage": null,
             "id": 994055387,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-06-14T07:10:40Z",
+            "open_issues": 0,
             "owner": "MissingDirection",
             "repo": "picgo-plugin-tos-upload",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1498,12 +2151,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Picgo 微信公众号上传插件， 可以结合 typera一起使用",
+            "homepage": null,
             "id": 999360370,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-12-12T01:10:14Z",
+            "open_issues": 0,
             "owner": "zhoucha",
             "repo": "picgo-plugin-wxmp-uploader",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1514,12 +2172,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom upload interface plugin based on picgo development. 基于 picgo 开发的自定义上传接口插件.",
+            "homepage": null,
             "id": 1011293673,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-06-30T17:08:14Z",
+            "open_issues": 0,
             "owner": "Layouwen",
             "repo": "picgo-plugin-custom-api-uploader",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "javascript",
+              "picgo",
+              "picogo-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1530,12 +2197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1036509585,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-08-13T02:05:19Z",
+            "open_issues": 0,
             "owner": "2ue",
             "repo": "picgo-plugin-multiple-backup",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1546,12 +2218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PicGo uploader for imgbox.com",
+            "homepage": null,
             "id": 1013680209,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-29T08:45:48Z",
+            "open_issues": 0,
             "owner": "aquausora",
             "repo": "picgo-plugin-imgbox",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1562,12 +2239,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IM.GE 图床 ，官网地址：  https://im.ge",
+            "homepage": null,
             "id": 1114932916,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-12-12T05:33:57Z",
+            "open_issues": 0,
             "owner": "zhoucha",
             "repo": "picgo-plugin-im.ge-uploader",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1578,12 +2260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image compression plugin for PicGo(>=^2.3.0). Update, adapt and optimize. Better support and richer features",
+            "homepage": null,
             "id": 836470536,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-08-07T08:30:18Z",
+            "open_issues": 11,
             "owner": "supine0703",
             "repo": "picgo-plugin-compress-next",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1594,12 +2281,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PicGo's watermark plugin for electron",
+            "homepage": null,
             "id": 603659015,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-03-29T03:47:35Z",
+            "open_issues": 0,
             "owner": "terwer",
             "repo": "picgo-plugin-watermark-elec",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1610,12 +2302,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PicGo / PicList 高级水印插件：满屏自适应旋转文本水印 + 扩频盲水印。",
+            "homepage": null,
             "id": 1214205809,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-05T14:42:37Z",
+            "open_issues": 0,
             "owner": "Mr-xn",
             "repo": "picgo-plugin-watermark-mrxn",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "nodejs",
+              "picgo",
+              "picgo-plugin",
+              "piclist"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1626,12 +2328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "picgo插件，用于云图-cloudimgs图床上传",
+            "homepage": null,
             "id": 1117899862,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-29T03:15:51Z",
+            "open_issues": 0,
             "owner": "qazzxxx",
             "repo": "picgo-plugin-cloudimgs-uploader",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1642,12 +2349,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "云图 - 极简风格的云图库，支持NAS部署，支持设置密钥，支持各种灵活的API开放接口，NAS图床，PicGo插件直接安装使用",
+            "homepage": "https://yt.qazz.site",
             "id": 1010020008,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-21T01:09:04Z",
+            "open_issues": 0,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 999
+            "stars": 1000,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1658,12 +2370,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个PicGo插件，使用闲鱼API存储图片 | A PicGo plugin that uses the Goofish API to store images.",
+            "homepage": null,
             "id": 1128387012,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-05T17:25:49Z",
+            "open_issues": 0,
             "owner": "Kwensiu",
             "repo": "picgo-plugin-goofish",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1674,12 +2391,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PicGo extension for using Backblaze as image bed.",
+            "homepage": null,
             "id": 1155112161,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-29T07:18:54Z",
+            "open_issues": 5,
             "owner": "cybershang",
             "repo": "picgo-plugin-backblaze",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "backblaze",
+              "picgo"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1690,12 +2415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1278101899,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-07T07:06:03Z",
+            "open_issues": 0,
             "owner": "GeorgeHu6",
             "repo": "picgo-plugin-gitea-uploader",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         }
@@ -1712,12 +2442,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A VSCode plugin of PicGo",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=Spades.vs-picgo",
             "id": 150125078,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T06:00:21Z",
+            "open_issues": 36,
             "owner": "PicGo",
             "repo": "vs-picgo",
-            "stars": 414
+            "stars": 414,
+            "topics": [
+              "image-upload",
+              "picgo",
+              "picgo-plugin",
+              "vs-picgo",
+              "vscode-extension",
+              "writing"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1728,12 +2470,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1105885399,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-29T15:42:49Z",
+            "open_issues": 7,
             "owner": "zcyisiee",
             "repo": "vscode-picgo-paste",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1744,12 +2491,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PicGo extension for coc.nvim, forked from vs-picgo",
+            "homepage": null,
             "id": 278396612,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T19:56:52Z",
+            "open_issues": 16,
             "owner": "PLDaily",
             "repo": "coc-picgo",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1760,12 +2512,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "auto upload image with picgo",
+            "homepage": null,
             "id": 357220374,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-11-28T05:52:51Z",
+            "open_issues": 78,
             "owner": "renmu123",
             "repo": "obsidian-image-auto-upload-plugin",
-            "stars": 473
+            "stars": 473,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1776,12 +2533,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Raycast extension to upload your images to your image hosts via PicGo. 一个使用PicGo进行图片上传的Raycast插件。 ",
+            "homepage": "https://www.raycast.com/rubisco0211/picgo",
             "id": 1146543970,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-06-29T15:36:55Z",
+            "open_issues": 0,
             "owner": "RUBisco0211",
             "repo": "raycast-extension-picgo",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "picgo",
+              "raycast"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         }
@@ -1798,12 +2563,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI app for giki.app",
+            "homepage": null,
             "id": 276931691,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-06T22:52:09Z",
+            "open_issues": 3,
             "owner": "jwenjian",
             "repo": "giki-cli",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1814,12 +2584,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🥳🥳 A neovim plugin based on picgo-core, written in Lua. 🌲 Allows you to add pictures to various picture beds at any time, and they can be accessed from any corner of the Internet. 🎆",
+            "homepage": null,
             "id": 484914579,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-26T09:43:01Z",
+            "open_issues": 2,
             "owner": "askfiy",
             "repo": "nvim-picgo",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "image",
+              "lua",
+              "neovim",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1830,12 +2610,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An image upload and manage tool, base on PicGo",
+            "homepage": "https://piclist.cn",
             "id": 584656916,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-08-26T16:58:13Z",
+            "open_issues": 33,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3748
+            "stars": 3748,
+            "topics": [
+              "alioss",
+              "electron",
+              "github",
+              "imgur",
+              "imgur-uploader",
+              "picgo",
+              "qiniu",
+              "s3",
+              "smms",
+              "tencent-cos",
+              "upyun",
+              "vue",
+              "webdav",
+              "webdav-client"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         }
@@ -1852,12 +2652,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 A simple & beautiful mobile tool for pictures uploading built by flutter",
+            "homepage": null,
             "id": 272189500,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2021-06-03T06:21:52Z",
+            "open_issues": 25,
             "owner": "PicGo",
             "repo": "flutter-picgo",
-            "stars": 490
+            "stars": 490,
+            "topics": [
+              "aliyun-oss",
+              "cos",
+              "flutter",
+              "gitee",
+              "github",
+              "image-upload",
+              "lsky",
+              "niupic",
+              "picgo",
+              "qiniu",
+              "smms",
+              "tencent-cos",
+              "uploader",
+              "upyun"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         },
@@ -1868,12 +2688,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一款手机端云存储平台/图床管理和文件上传/下载工具，支持直接管理Webdav，Alist，SSH/SFTP，云服务器，兼容S3 API的平台，腾讯COS，阿里OSS，七牛云，又拍云，兰空图床，Imgur，SM.MS和github",
+            "homepage": "https://pichoro.horosama.com",
             "id": 544369464,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2026-01-05T14:53:49Z",
+            "open_issues": 5,
             "owner": "Kuingsmile",
             "repo": "PicHoro",
-            "stars": 1013
+            "stars": 1014,
+            "topics": [
+              "alist",
+              "aliyun-oss",
+              "android",
+              "flutter",
+              "github",
+              "imgur",
+              "lsky-pro",
+              "picgo",
+              "qiniu",
+              "sftp",
+              "smms",
+              "ssh",
+              "tencent-cos",
+              "upyun",
+              "webdav"
+            ]
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
         }
@@ -1882,15 +2723,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:58:10.097Z",
+    "last_updated": "2026-08-29T04:29:51.894Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome projects using PicGo.",
+      "homepage": "https://picgo.app",
       "id": 165874757,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-17T07:02:03Z",
+      "open_issues": 1,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
-      "stars": 1720
+      "stars": 1720,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "picgo"
+      ]
     },
     "original_repository_sha": "aec83a151889ee4cd05841da7b62c2efc5d1d749",
     "enhanced_repository": "enhansome/enhansome-Awesome-PicGo",
