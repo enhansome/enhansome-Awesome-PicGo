@@ -1004,7 +1004,7 @@
             "open_issues": 175,
             "owner": "phachon",
             "repo": "mm-wiki",
-            "stars": 3774,
+            "stars": 3773,
             "topics": [
               "api-docs",
               "confluence",
@@ -1061,7 +1061,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4696,
+            "stars": 4698,
             "topics": [
               "cloud",
               "image-store",
@@ -1113,7 +1113,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4696,
+            "stars": 4698,
             "topics": [
               "cloud",
               "image-store",
@@ -1253,7 +1253,7 @@
             "open_issues": 260,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 25760,
+            "stars": 25768,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1295,7 +1295,7 @@
             "open_issues": 12,
             "owner": "qkqpttgf",
             "repo": "OneManager-php",
-            "stars": 3800,
+            "stars": 3801,
             "topics": [
               "aliyun-fc",
               "baidu-cfc",
@@ -1524,7 +1524,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4696,
+            "stars": 4698,
             "topics": [
               "cloud",
               "image-store",
@@ -1576,7 +1576,7 @@
             "open_issues": 20,
             "owner": "songquanpeng",
             "repo": "go-file",
-            "stars": 1121,
+            "stars": 1122,
             "topics": [
               "file-share",
               "go-file",
@@ -1665,7 +1665,7 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-30T10:29:03Z",
+            "last_commit": "2026-08-30T17:51:27Z",
             "open_issues": 34,
             "owner": "LycheeOrg",
             "repo": "Lychee",
@@ -2723,7 +2723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T12:10:22.099Z",
+    "last_updated": "2026-08-31T14:21:14.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
