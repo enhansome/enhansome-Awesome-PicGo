@@ -62,7 +62,7 @@
             "id": 166678902,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-02-04T08:15:54Z",
+            "last_commit": "2026-09-01T08:25:53Z",
             "open_issues": 7,
             "owner": "PicGo",
             "repo": "picgo-plugin-pic-migrater",
@@ -317,7 +317,7 @@
             "open_issues": 6,
             "owner": "jiajiajia343434",
             "repo": "picgo-plugin-nextcloud-uploader",
-            "stars": 20,
+            "stars": 21,
             "topics": [
               "nextcloud",
               "picgo",
@@ -1004,7 +1004,7 @@
             "open_issues": 175,
             "owner": "phachon",
             "repo": "mm-wiki",
-            "stars": 3773,
+            "stars": 3774,
             "topics": [
               "api-docs",
               "confluence",
@@ -1253,7 +1253,7 @@
             "open_issues": 260,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 25768,
+            "stars": 25772,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1665,11 +1665,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-30T17:51:27Z",
-            "open_issues": 34,
+            "last_commit": "2026-09-01T11:44:48Z",
+            "open_issues": 38,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4266,
+            "stars": 4267,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -2358,7 +2358,7 @@
             "open_issues": 0,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 999,
+            "stars": 1004,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2476,7 +2476,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2025-11-29T15:42:49Z",
-            "open_issues": 7,
+            "open_issues": 6,
             "owner": "zcyisiee",
             "repo": "vscode-picgo-paste",
             "stars": 5,
@@ -2615,11 +2615,11 @@
             "id": 584656916,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-08-26T16:58:13Z",
+            "last_commit": "2026-09-01T11:44:33Z",
             "open_issues": 33,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3748,
+            "stars": 3750,
             "topics": [
               "alioss",
               "electron",
@@ -2723,7 +2723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T14:21:14.563Z",
+    "last_updated": "2026-09-01T11:58:12.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2735,7 +2735,7 @@
       "open_issues": 1,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
-      "stars": 1720,
+      "stars": 1721,
       "topics": [
         "awesome",
         "awesome-list",
