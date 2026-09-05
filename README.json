@@ -1232,7 +1232,7 @@
             "open_issues": 3,
             "owner": "JolyneAnasui",
             "repo": "picgo-plugin-squoosh",
-            "stars": 21,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1253,7 +1253,7 @@
             "open_issues": 261,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 25808,
+            "stars": 25819,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1665,11 +1665,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-03T23:34:17Z",
-            "open_issues": 42,
+            "last_commit": "2026-09-05T10:16:41Z",
+            "open_issues": 43,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4270,
+            "stars": 4269,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -1805,7 +1805,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4664,
+            "stars": 4665,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1859,7 +1859,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4664,
+            "stars": 4665,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2358,7 +2358,7 @@
             "open_issues": 0,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 1010,
+            "stars": 1012,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2615,7 +2615,7 @@
             "id": 584656916,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-09-03T23:26:12Z",
+            "last_commit": "2026-09-04T18:32:26Z",
             "open_issues": 35,
             "owner": "Kuingsmile",
             "repo": "PicList",
@@ -2723,7 +2723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T11:40:10.876Z",
+    "last_updated": "2026-09-05T10:52:36.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
