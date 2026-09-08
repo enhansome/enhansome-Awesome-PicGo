@@ -702,7 +702,7 @@
             "open_issues": 0,
             "owner": "eyunzhu",
             "repo": "picgo-plugin-s3-uploader",
-            "stars": 4,
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1253,7 +1253,7 @@
             "open_issues": 261,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 25841,
+            "stars": 25846,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1295,7 +1295,7 @@
             "open_issues": 12,
             "owner": "qkqpttgf",
             "repo": "OneManager-php",
-            "stars": 3800,
+            "stars": 3799,
             "topics": [
               "aliyun-fc",
               "baidu-cfc",
@@ -1665,11 +1665,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-06T21:33:52Z",
+            "last_commit": "2026-09-08T07:17:17Z",
             "open_issues": 40,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4273,
+            "stars": 4283,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -2358,7 +2358,7 @@
             "open_issues": 0,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 1014,
+            "stars": 1015,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2636,11 +2636,11 @@
             "id": 584656916,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-09-04T18:32:26Z",
+            "last_commit": "2026-09-07T23:49:56Z",
             "open_issues": 35,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3757,
+            "stars": 3758,
             "topics": [
               "alioss",
               "electron",
@@ -2744,7 +2744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T12:57:45.453Z",
+    "last_updated": "2026-09-08T11:41:09.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2756,7 +2756,7 @@
       "open_issues": 1,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
-      "stars": 1723,
+      "stars": 1724,
       "topics": [
         "awesome",
         "awesome-list",
