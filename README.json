@@ -1249,11 +1249,11 @@
             "id": 124303364,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T08:36:45Z",
+            "last_commit": "2026-09-10T10:38:38Z",
             "open_issues": 261,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 25855,
+            "stars": 25861,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1665,11 +1665,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-09T10:19:42Z",
-            "open_issues": 41,
+            "last_commit": "2026-09-10T07:55:50Z",
+            "open_issues": 38,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4285,
+            "stars": 4287,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -1805,7 +1805,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4668,
+            "stars": 4669,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1859,7 +1859,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4668,
+            "stars": 4669,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2115,7 +2115,7 @@
             "open_issues": 0,
             "owner": "Yuri-NagaSaki",
             "repo": "ImageFlow",
-            "stars": 611,
+            "stars": 612,
             "topics": [
               "photos",
               "self-hosted"
@@ -2358,7 +2358,7 @@
             "open_issues": 0,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 1017,
+            "stars": 1020,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2636,11 +2636,11 @@
             "id": 584656916,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-09-07T23:49:56Z",
+            "last_commit": "2026-09-10T01:10:31Z",
             "open_issues": 36,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3760,
+            "stars": 3762,
             "topics": [
               "alioss",
               "electron",
@@ -2744,7 +2744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T11:46:22.628Z",
+    "last_updated": "2026-09-10T11:44:17.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2756,7 +2756,7 @@
       "open_issues": 1,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
-      "stars": 1724,
+      "stars": 1723,
       "topics": [
         "awesome",
         "awesome-list",
