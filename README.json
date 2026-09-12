@@ -676,7 +676,7 @@
             "open_issues": 10,
             "owner": "wayjam",
             "repo": "picgo-plugin-s3",
-            "stars": 234,
+            "stars": 235,
             "topics": [
               "aws",
               "picgo",
@@ -870,7 +870,7 @@
             "open_issues": 0,
             "owner": "Redns",
             "repo": "picgo-plugin-postimage",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1253,7 +1253,7 @@
             "open_issues": 261,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 25865,
+            "stars": 25870,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1665,11 +1665,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-10T21:32:33Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-11T20:50:43Z",
+            "open_issues": 38,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4285,
+            "stars": 4288,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -1763,7 +1763,7 @@
             "open_issues": 0,
             "owner": "quul",
             "repo": "picgo-plugin-freeimagehost-uploader",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1784,7 +1784,7 @@
             "open_issues": 0,
             "owner": "msdx",
             "repo": "picgo-plugin-telegraph-image-uploader",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1805,7 +1805,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4671,
+            "stars": 4672,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1859,7 +1859,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4671,
+            "stars": 4672,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2206,7 +2206,7 @@
             "open_issues": 0,
             "owner": "2ue",
             "repo": "picgo-plugin-multiple-backup",
-            "stars": 3,
+            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2227,7 +2227,7 @@
             "open_issues": 0,
             "owner": "aquausora",
             "repo": "picgo-plugin-imgbox",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2358,7 +2358,7 @@
             "open_issues": 0,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 1028,
+            "stars": 1029,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2640,7 +2640,7 @@
             "open_issues": 38,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3762,
+            "stars": 3763,
             "topics": [
               "alioss",
               "electron",
@@ -2744,7 +2744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T11:44:23.288Z",
+    "last_updated": "2026-09-12T11:11:48.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
