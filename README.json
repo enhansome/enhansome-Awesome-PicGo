@@ -272,7 +272,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-03-25T10:05:25Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "zhanghuid",
             "repo": "picgo-plugin-gitee",
             "stars": 39,
@@ -293,7 +293,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2019-06-23T08:42:43Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "lizhuangs",
             "repo": "picgo-plugin-gitee-uploader",
             "stars": 43,
@@ -1253,7 +1253,7 @@
             "open_issues": 261,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 25870,
+            "stars": 25874,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1665,11 +1665,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-11T20:50:43Z",
-            "open_issues": 38,
+            "last_commit": "2026-09-13T08:20:39Z",
+            "open_issues": 35,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4288,
+            "stars": 4290,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -2358,7 +2358,7 @@
             "open_issues": 0,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 1029,
+            "stars": 1032,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2679,7 +2679,7 @@
             "language": "Dart",
             "license": "MIT",
             "last_commit": "2021-06-03T06:21:52Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "PicGo",
             "repo": "flutter-picgo",
             "stars": 490,
@@ -2744,7 +2744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:11:48.678Z",
+    "last_updated": "2026-09-13T12:14:29.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2753,7 +2753,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-07T01:13:18Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
       "stars": 1724,
