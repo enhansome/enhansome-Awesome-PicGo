@@ -91,7 +91,7 @@
             "open_issues": 11,
             "owner": "yuki-xin",
             "repo": "picgo-plugin-web-uploader",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1253,7 +1253,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 25898,
+            "stars": 25906,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1665,11 +1665,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-18T07:56:07Z",
-            "open_issues": 36,
+            "last_commit": "2026-09-18T21:59:29Z",
+            "open_issues": 35,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4295,
+            "stars": 4297,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -1805,7 +1805,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4677,
+            "stars": 4683,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1859,7 +1859,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4677,
+            "stars": 4683,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2009,48 +2009,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
-        },
-        {
-          "node_type": "item",
-          "title": "picgo-plugin-helloimg-pro-uploader",
-          "description": "An uploader for Hello图床(专业版) :white_check_mark: :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "为 PicGo 开发的一款插件，适配Hello图床专业版接口。",
-            "homepage": null,
-            "id": 883106733,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2024-11-04T12:23:58Z",
-            "open_issues": 0,
-            "owner": "fanbuz",
-            "repo": "picgo-plugin-helloimg-pro-uploader",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-09-18T11:42:06.004Z"
-        },
-        {
-          "node_type": "item",
-          "title": "picgo-plugin-freeimg-uploader",
-          "description": "An uploader for Freeimg图床 :white_check_mark: :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "picgo插件-Freeimg图床",
-            "homepage": null,
-            "id": 883146921,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2024-11-04T22:40:48Z",
-            "open_issues": 0,
-            "owner": "fanbuz",
-            "repo": "picgo-plugin-freeimg-uploader",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-09-18T11:42:06.004Z"
         },
         {
           "node_type": "item",
@@ -2400,7 +2358,7 @@
             "open_issues": 0,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 1048,
+            "stars": 1049,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2605,7 +2563,7 @@
             "open_issues": 78,
             "owner": "renmu123",
             "repo": "obsidian-image-auto-upload-plugin",
-            "stars": 473,
+            "stars": 472,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2699,11 +2657,11 @@
             "id": 584656916,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-09-18T09:26:27Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-19T09:09:48Z",
+            "open_issues": 31,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3767,
+            "stars": 3768,
             "topics": [
               "alioss",
               "electron",
@@ -2781,7 +2739,7 @@
             "open_issues": 5,
             "owner": "Kuingsmile",
             "repo": "PicHoro",
-            "stars": 1019,
+            "stars": 1020,
             "topics": [
               "alist",
               "aliyun-oss",
@@ -2807,7 +2765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T11:42:06.004Z",
+    "last_updated": "2026-09-19T11:25:20.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
