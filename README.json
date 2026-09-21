@@ -676,7 +676,7 @@
             "open_issues": 10,
             "owner": "wayjam",
             "repo": "picgo-plugin-s3",
-            "stars": 236,
+            "stars": 237,
             "topics": [
               "aws",
               "picgo",
@@ -912,7 +912,7 @@
             "open_issues": 3,
             "owner": "fslongjin",
             "repo": "My-Easy-Pic-Bed",
-            "stars": 159,
+            "stars": 158,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1061,7 +1061,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4698,
+            "stars": 4699,
             "topics": [
               "cloud",
               "image-store",
@@ -1113,7 +1113,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4698,
+            "stars": 4699,
             "topics": [
               "cloud",
               "image-store",
@@ -1253,7 +1253,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 25924,
+            "stars": 25933,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1524,7 +1524,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4698,
+            "stars": 4699,
             "topics": [
               "cloud",
               "image-store",
@@ -1665,11 +1665,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-18T21:59:29Z",
-            "open_issues": 36,
+            "last_commit": "2026-09-21T11:53:38Z",
+            "open_issues": 37,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4298,
+            "stars": 4300,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -1805,7 +1805,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4681,
+            "stars": 4682,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1859,7 +1859,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4681,
+            "stars": 4682,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2012,6 +2012,48 @@
         },
         {
           "node_type": "item",
+          "title": "picgo-plugin-helloimg-pro-uploader",
+          "description": "An uploader for Hello图床(专业版) :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "为 PicGo 开发的一款插件，适配Hello图床专业版接口。",
+            "homepage": null,
+            "id": 883106733,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2024-11-04T12:23:58Z",
+            "open_issues": 0,
+            "owner": "fanbuz",
+            "repo": "picgo-plugin-helloimg-pro-uploader",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-21T13:15:34.043Z"
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-freeimg-uploader",
+          "description": "An uploader for Freeimg图床 :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "picgo插件-Freeimg图床",
+            "homepage": null,
+            "id": 883146921,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2024-11-04T22:40:48Z",
+            "open_issues": 0,
+            "owner": "fanbuz",
+            "repo": "picgo-plugin-freeimg-uploader",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-09-21T13:15:34.043Z"
+        },
+        {
+          "node_type": "item",
           "title": "picgo-plugin-ali",
           "description": "An uploader for Ali. 用阿里速卖通作为图床 :white_check_mark: :white_check_mark:",
           "children": [],
@@ -2115,7 +2157,7 @@
             "open_issues": 0,
             "owner": "Yuri-NagaSaki",
             "repo": "ImageFlow",
-            "stars": 610,
+            "stars": 611,
             "topics": [
               "photos",
               "self-hosted"
@@ -2358,7 +2400,7 @@
             "open_issues": 0,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 1051,
+            "stars": 1053,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2563,7 +2605,7 @@
             "open_issues": 78,
             "owner": "renmu123",
             "repo": "obsidian-image-auto-upload-plugin",
-            "stars": 472,
+            "stars": 473,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2655,13 +2697,13 @@
             "description": "An image upload and manage tool, base on PicGo",
             "homepage": "https://piclist.cn",
             "id": 584656916,
-            "language": "Vue",
+            "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T21:45:01Z",
-            "open_issues": 35,
+            "last_commit": "2026-09-21T09:59:02Z",
+            "open_issues": 23,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3769,
+            "stars": 3770,
             "topics": [
               "alioss",
               "electron",
@@ -2703,7 +2745,7 @@
             "open_issues": 26,
             "owner": "PicGo",
             "repo": "flutter-picgo",
-            "stars": 490,
+            "stars": 489,
             "topics": [
               "aliyun-oss",
               "cos",
@@ -2765,7 +2807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T11:45:28.302Z",
+    "last_updated": "2026-09-21T13:15:34.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
