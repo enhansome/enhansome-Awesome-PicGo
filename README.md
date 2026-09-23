@@ -1,19 +1,50 @@
-<div align="center" markdown="1">
-  <sup>Special thanks to:</sup>
-  <br>
-  <a href="https://www.nocobase.com/?utm_source=picgo">
-    <img alt="NocoBase sponsorship" width="400" src="https://static-docs.nocobase.com/Logo-Black.png">
-  </a>
-
-### [NocoBase, AI + No-Code Build reliable business systems](https://www.nocobase.com/?utm_source=picgo)
-
+<div align="center">
+  <h3>Special thanks to</h3>
+  <table>
+    <tr>
+      <td align="center" valign="middle" width="50%">
+        <a href="https://modelflare.dev/sign-up?partner=1GIMVVBLWP1V">
+          <img alt="Modelflare sponsorship" width="400" src="https://pics.picgo.app/m/ef1a160c-c9ce-4605-9b9c-b2d355cd2de4.png">
+        </a>
+        <h3><a href="https://modelflare.dev/sign-up?partner=1GIMVVBLWP1V">Modelflare</a></h3>
+        <p>Full strength, stable, nothing watered down. Global SOTA models at a lower cost.</p>
+      </td>
+      <td align="center" valign="middle" width="50%">
+        <a href="https://castaly.modelflare.dev/sign-up?partner=1GIMVVBLWP1V">
+          <img alt="Castaly sponsorship" width="400" src="https://pics.picgo.app/m/284def41-2f23-47e6-9d64-7017d386a221.png">
+        </a>
+        <h3><a href="https://castaly.modelflare.dev/sign-up?partner=1GIMVVBLWP1V">Castaly</a></h3>
+        <p>Full strength, no upscaling. 40+ image and video models, including NSFW.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" width="50%">
+        <a href="https://www.nocobase.com/?utm_source=picgo">
+          <img alt="NocoBase sponsorship" width="400" src="https://static-docs.nocobase.com/Logo-Black.png">
+        </a>
+        <h3><a href="https://www.nocobase.com/?utm_source=picgo">NocoBase</a></h3>
+        <p>AI + No-Code Build reliable business systems</p>
+      </td>
+      <td align="center" valign="middle" width="50%">
+        <a href="https://console.neon.tech/app/?promo=PicGo">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://neon.com/brand/neon-logo-dark-color.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://neon.com/brand/neon-logo-light-color.svg">
+            <img alt="Neon sponsorship" width="400" src="https://neon.com/brand/neon-logo-dark-color.svg">
+          </picture>
+        </a>
+        <h3><a href="https://console.neon.tech/app/?promo=PicGo">Neon</a></h3>
+        <p>Fast Postgres Databases for Teams and Agents</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ***
 
 # Awesome-PicGo with stars
 
-> A collection of awesome project using [PicGo](https://github.com/PicGo/PicGo-Core) ⭐ 988 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-22.
+> A collection of awesome project using [PicGo](https://github.com/PicGo/PicGo-Core) ⭐ 988 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-23.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Molunerfinn/test/master/picgo/New%20LOGO-150.png" alt="">
@@ -82,7 +113,7 @@
 | [picgo-plugin-squeeze](https://github.com/Redns/picgo-plugin-squeeze) ⭐ 31 \| 🐛 1 \| 🌐 JavaScript \| 📅 2026-07-04                                   | A plugin for image compression that supports local compression, online compression, and custom compression rules                                                                                                                                                                                             | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-rclone](https://github.com/yabostone/picgo-plugin-rclone) ⭐ 18 \| 🐛 5 \| 🌐 TypeScript \| 📅 2022-04-27                                 | An **uploader** for [RCLONE](https://rclone.org/) 联动RCLONE，支持本地备份/远端备份，支持40多种后端。                                                                                                                                                                                                                             | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-cloudinary](https://github.com/yabostone/picgo-plugin-cloudinary) ⭐ 5 \| 🐛 1 \| 🌐 TypeScript \| 📅 2022-04-24                          | An **uploader** for [Cloudinary](https://cloudinary.com/)                                                                                                                                                                                                                                                    | :white\_check\_mark: | :white\_check\_mark: |
-| [picgo-plugin-squoosh](https://github.com/JolyneAnasui/picgo-plugin-squoosh) ⭐ 20 \| 🐛 3 \| 🌐 JavaScript \| 📅 2022-06-14                            | A plugin for compressing image locally using [@squoosh/lib](https://github.com/GoogleChromeLabs/squoosh/tree/dev/libsquoosh) ⭐ 25,936 \| 🐛 262 \| 🌐 TypeScript \| 📅 2026-09-14 and rename with md5                                                                                                        | :white\_check\_mark: | :white\_check\_mark: |
+| [picgo-plugin-squoosh](https://github.com/JolyneAnasui/picgo-plugin-squoosh) ⭐ 20 \| 🐛 3 \| 🌐 JavaScript \| 📅 2022-06-14                            | A plugin for compressing image locally using [@squoosh/lib](https://github.com/GoogleChromeLabs/squoosh/tree/dev/libsquoosh) ⭐ 25,938 \| 🐛 262 \| 🌐 TypeScript \| 📅 2026-09-14 and rename with md5                                                                                                        | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-onemanager](https://github.com/laoxinH/picgo-plugin-onemanager) ⭐ 14 \| 🐛 5 \| 🌐 JavaScript \| 📅 2023-02-16                           | An **uploader** for [onemanager](https://github.com/qkqpttgf/OneManager-php) ⭐ 3,798 \| 🐛 12 \| 🌐 HTML \| 📅 2026-04-30 联动onemanager将onedrive作为免费图床。                                                                                                                                                       | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-remove-exif](https://github.com/hans362/picgo-plugin-remove-exif) ⭐ 5 \| 🐛 3 \| 🌐 JavaScript \| 📅 2023-09-12                          | Remove EXIF data before uploading 上传图片前移除EXIF数据                                                                                                                                                                                                                                                              | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-penzi](https://github.com/lipeilin375/picgo-plugin-penzi)                                                                                | An **uploader** for [喷子图床](https://pz.al/)                                                                                                                                                                                                                                                                   | :white\_check\_mark: | :white\_check\_mark: |
@@ -94,16 +125,16 @@
 | [picgo-plugin-azureimg](https://github.com/YukiCoco/picgo-plugin-azureimg) ⭐ 1 \| 🐛 0 \| 🌐 TypeScript \| 📅 2023-03-16                               | An **uploader** for [Azure Repo](https://dev.azure.com/)                                                                                                                                                                                                                                                     | :white\_check\_mark: | :x:                  |
 | [picgo-plugin-free-uploader](https://github.com/yuanyxh/picgo-plugin-free-uploader) ⭐ 3 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-09-02                      | a picgo plug -in, support user custom script.                                                                                                                                                                                                                                                                | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-lsky-uploader](https://github.com/lsilencej/picgo-plugin-lsky-uploader) ⭐ 11 \| 🐛 0 \| 🌐 JavaScript \| 📅 2024-12-03                   | An **uploader** for [LskyPro](https://github.com/lsky-org/lsky-pro) ⭐ 4,700 \| 🐛 167 \| 🌐 Blade \| 📅 2026-02-14 适用于服务器自建兰空图床开源版                                                                                                                                                                           | :white\_check\_mark: | :white\_check\_mark: |
-| [picgo-plugin-gofile](https://github.com/songquanpeng/picgo-plugin-gofile) ⭐ 3 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-05-17                               | An **uploader** for [Go File](https://github.com/songquanpeng/go-file) ⭐ 1,125 \| 🐛 20 \| 🌐 HTML \| 📅 2025-11-20.                                                                                                                                                                                         | :white\_check\_mark: | :white\_check\_mark: |
+| [picgo-plugin-gofile](https://github.com/songquanpeng/picgo-plugin-gofile) ⭐ 3 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-05-17                               | An **uploader** for [Go File](https://github.com/songquanpeng/go-file) ⭐ 1,124 \| 🐛 20 \| 🌐 HTML \| 📅 2025-11-20.                                                                                                                                                                                         | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-gofile](https://github.com/yibaiba/picgo-plugin-yujian) ⭐ 1 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-06-07                                    | An **uploader** for [遇见图床](https://github.com/yibaiba/picgo-plugin-yujian) ⭐ 1 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-06-07.                                                                                                                                                                                    | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-imgbb-uploader](https://github.com/cloudnzk/picgo-plugin-imgbb-uploader) ⭐ 2 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-06-11                   | An **uploader** for [Imgbb](https://imgbb.com/).                                                                                                                                                                                                                                                             | :white\_check\_mark: | :white\_check\_mark: |
-| [picgo-plugin-lychee](https://github.com/ttionya/picgo-plugin-lychee) ⭐ 2 \| 🐛 1 \| 🌐 TypeScript \| 📅 2024-06-01                                    | An **uploader** for [Lychee](https://github.com/LycheeOrg/Lychee) ⭐ 4,301 \| 🐛 40 \| 🌐 PHP \| 📅 2026-09-22.                                                                                                                                                                                               | :white\_check\_mark: | :white\_check\_mark: |
+| [picgo-plugin-lychee](https://github.com/ttionya/picgo-plugin-lychee) ⭐ 2 \| 🐛 1 \| 🌐 TypeScript \| 📅 2024-06-01                                    | An **uploader** for [Lychee](https://github.com/LycheeOrg/Lychee) ⭐ 4,303 \| 🐛 38 \| 🌐 PHP \| 📅 2026-09-23.                                                                                                                                                                                               | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-simpletex](https://github.com/zhuozhiyongde/picgo-plugin-simpletex) ⭐ 0 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-09-21                        | An **uploader** for [SimpleTex](https://simpletex.cn/). Allow you to use LaTeX OCR based on SimpleTex. 基于 SimpleTex 的 LaTeX 光学字符识别，可以作为 MathPix 的替代品                                                                                                                                                         | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-gdrive](https://github.com/xinatcg/picgo-plugin-gdrive) ⭐ 5 \| 🐛 1 \| 🌐 TypeScript \| 📅 2024-02-27                                    | An **uploader** for [Google Drive](https://drive.google.com).                                                                                                                                                                                                                                                | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-oss-custom-headers](https://github.com/codenoy/picgo-plugin-oss-custom-headers) ⭐ 2 \| 🐛 1 \| 🌐 JavaScript \| 📅 2024-06-30            | A **plugin** for aliyun(oss) to custom headers. 阿里云OSS自定义请求头, 给OSS图床添加浏览器Http缓存.                                                                                                                                                                                                                             | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-freeimagehost-uploader](https://github.com/quul/picgo-plugin-freeimagehost-uploader) ⭐ 3 \| 🐛 0 \| 🌐 TypeScript \| 📅 2023-12-10       | An **uploader** for [FreeImage.Host](https://FreeImage.Host)                                                                                                                                                                                                                                                 | :white\_check\_mark: | :white\_check\_mark: |
-| [picgo-plugin-telegraph-image-uploader](https://github.com/msdx/picgo-plugin-telegraph-image-uploader) ⭐ 3 \| 🐛 0 \| 🌐 JavaScript \| 📅 2024-03-24   | An **uploader** for **Any** image host server built using [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) ⭐ 4,687 \| 🐛 25 \| 🌐 HTML \| 📅 2026-07-27                                                                                                                                        | :white\_check\_mark: | :white\_check\_mark: |
-| [picgo-plugin-cloudflare-telegraph](https://github.com/yanggithubcom/picgo-plugin-cloudflare-telegraph) ⭐ 13 \| 🐛 0 \| 🌐 JavaScript \| 📅 2025-03-15 | A plugin for Cloudflare Pages to host the Telegraph-Image project.适配Cloudflare Pages托管 [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) ⭐ 4,687 \| 🐛 25 \| 🌐 HTML \| 📅 2026-07-27  项目的 [PicGo](https://github.com/Molunerfinn/PicGo) ⭐ 27,229 \| 🐛 27 \| 🌐 TypeScript \| 📅 2026-09-01 插件 | :white\_check\_mark: | :white\_check\_mark: |
+| [picgo-plugin-telegraph-image-uploader](https://github.com/msdx/picgo-plugin-telegraph-image-uploader) ⭐ 3 \| 🐛 0 \| 🌐 JavaScript \| 📅 2024-03-24   | An **uploader** for **Any** image host server built using [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) ⭐ 4,689 \| 🐛 25 \| 🌐 HTML \| 📅 2026-07-27                                                                                                                                        | :white\_check\_mark: | :white\_check\_mark: |
+| [picgo-plugin-cloudflare-telegraph](https://github.com/yanggithubcom/picgo-plugin-cloudflare-telegraph) ⭐ 13 \| 🐛 0 \| 🌐 JavaScript \| 📅 2025-03-15 | A plugin for Cloudflare Pages to host the Telegraph-Image project.适配Cloudflare Pages托管 [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) ⭐ 4,689 \| 🐛 25 \| 🌐 HTML \| 📅 2026-07-27  项目的 [PicGo](https://github.com/Molunerfinn/PicGo) ⭐ 27,237 \| 🐛 27 \| 🌐 TypeScript \| 📅 2026-09-23 插件 | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-immich-uploader](https://github.com/kyo-tom/picgo-plugin-immich-uploader) ⭐ 1 \| 🐛 0 \| 🌐 JavaScript \| 📅 2024-08-13                  | An **uploader** for [immich](https://immich.app/)                                                                                                                                                                                                                                                            | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-gitcode](https://github.com/jianguo888/picgo-plugin-gitcode) ⭐ 3 \| 🐛 0 \| 🌐 JavaScript \| 📅 2025-03-08                               | An **uploader** for [gitcode](https://gitcode.com/)                                                                                                                                                                                                                                                          | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-onemanager-v2](https://github.com/steven-jianhao-li/picgo-plugin-onemanager-v2) ⭐ 5 \| 🐛 0 \| 🌐 JavaScript \| 📅 2025-01-12            | An **uploader** for onedrive 将onedrive作为免费图床。                                                                                                                                                                                                                                                                | :white\_check\_mark: | :white\_check\_mark: |
@@ -125,10 +156,10 @@
 | [picgo-plugin-compress-next](https://github.com/supine0703/picgo-plugin-compress-next) ⭐ 35 \| 🐛 11 \| 🌐 TypeScript \| 📅 2024-08-07                 | A plugin for image compression for PicGo(>=^2.3.0). Update, adapt and optimize. Better support and richer features                                                                                                                                                                                           | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-watermark-elec](https://github.com/terwer/picgo-plugin-watermark-elec) ⭐ 6 \| 🐛 0 \| 🌐 TypeScript \| 📅 2024-03-29                     | A plugin for watermarking pictures. A fork version of picgo-picgo-plugin-watermark                                                                                                                                                                                                                           | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-watermark-mrxn](https://github.com/Mr-xn/picgo-plugin-watermark-mrxn) ⭐ 0 \| 🐛 0 \| 🌐 JavaScript \| 📅 2026-05-05                      | A plugin for advanced watermarking: full-image tiled rotation text watermark + spread-spectrum blind watermark. **【GUI v2.3.0+】**                                                                                                                                                                            | :white\_check\_mark: | :white\_check\_mark: |
-| [picgo-plugin-cloudimgs-uploader](https://github.com/qazzxxx/picgo-plugin-cloudimgs-uploader) ⭐ 15 \| 🐛 0 \| 🌐 JavaScript \| 📅 2026-07-29           | An uploader for [云图（cloudimgs)图床](https://github.com/qazzxxx/cloudimgs) ⭐ 1,056 \| 🐛 0 \| 🌐 JavaScript \| 📅 2026-08-21                                                                                                                                                                                    | :white\_check\_mark: | :white\_check\_mark: |
+| [picgo-plugin-cloudimgs-uploader](https://github.com/qazzxxx/picgo-plugin-cloudimgs-uploader) ⭐ 15 \| 🐛 0 \| 🌐 JavaScript \| 📅 2026-07-29           | An uploader for [云图（cloudimgs)图床](https://github.com/qazzxxx/cloudimgs) ⭐ 1,058 \| 🐛 0 \| 🌐 JavaScript \| 📅 2026-08-21                                                                                                                                                                                    | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-goofish](https://github.com/Kwensiu/picgo-plugin-goofish) ⭐ 0 \| 🐛 0 \| 🌐 JavaScript \| 📅 2026-01-05                                  | An uploader for [Goofish](https://author.goofish.com/#/) (闲鱼创作者平台)                                                                                                                                                                                                                                           | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-backblaze](https://github.com/cybershang/picgo-plugin-backblaze) ⭐ 1 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-06-29                           | An **uploader** for [Backblaze](https://www.backblaze.com/)                                                                                                                                                                                                                                                  | :white\_check\_mark: | :white\_check\_mark: |
-| [picgo-plugin-gitea-uploader](https://github.com/GeorgeHu6/picgo-plugin-gitea-uploader) ⭐ 0 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-07-07                  | An **uploader** plugin for [Gitea](https://gitea.com/) repository image hosting.                                                                                                                                                                                                                             | :white\_check\_mark: | :white\_check\_mark: |
+| [picgo-plugin-gitea-uploader](https://github.com/GeorgeHu6/picgo-plugin-gitea-uploader) ⭐ 1 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-07-07                  | An **uploader** plugin for [Gitea](https://gitea.com/) repository image hosting.                                                                                                                                                                                                                             | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-immich-up](https://github.com/carltony/picgo-plugin-immich-up) ⭐ 0 \| 🐛 0 \| 🌐 JavaScript \| 📅 2026-09-17                             | An **uploader** for [Immich](https://immich.app/) self-hosted photo management                                                                                                                                                                                                                               | :white\_check\_mark: | :white\_check\_mark: |
 | [picgo-plugin-upyun-sync-delete](https://github.com/Young143l/picgo-plugin-upyun-sync-delete) ⭐ 0 \| 🐛 0 \| 🌐 JavaScript \| 📅 2026-09-20            | A plugin for sync-deleting UpYun (又拍云) files when removing images from the PicGo album. 相册删除图片时同步删除又拍云云端文件。                                                                                                                                                                                                  | :x:                  | :white\_check\_mark: |
 
@@ -149,7 +180,7 @@
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | [giki-cli](https://github.com/jwenjian/giki-cli) ⭐ 2 \| 🐛 3 \| 🌐 TypeScript \| 📅 2022-12-06      | A CLI app for <https://giki.app>                                          |
 | [nvim-picgo](https://github.com/askfiy/nvim-picgo) ⭐ 68 \| 🐛 2 \| 🌐 Lua \| 📅 2026-03-26          | Picgo plugin for neovim                                                   |
-| [PicList](https://github.com/Kuingsmile/PicList) ⭐ 3,771 \| 🐛 20 \| 🌐 TypeScript \| 📅 2026-09-22 | Advanced development based on PicGo. (基于PicGo的二次开发版本，增加了云存储管理和相册云端同步删除功能) |
+| [PicList](https://github.com/Kuingsmile/PicList) ⭐ 3,770 \| 🐛 20 \| 🌐 TypeScript \| 📅 2026-09-23 | Advanced development based on PicGo. (基于PicGo的二次开发版本，增加了云存储管理和相册云端同步删除功能) |
 
 ## :star: Apps supports PicGo Configuration
 
@@ -168,8 +199,8 @@
 
 ## Contribution
 
-Make sure your have read the [CONTRIBUTING](https://github.com/PicGo/Awesome-PicGo/blob/master/CONTRIBUTING.md) ⭐ 1,728 | 🐛 1 | 📅 2026-09-13, then you can open a PR!
+Make sure your have read the [CONTRIBUTING](https://github.com/PicGo/Awesome-PicGo/blob/master/CONTRIBUTING.md) ⭐ 1,729 | 🐛 1 | 📅 2026-09-23, then you can open a PR!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
