@@ -1004,7 +1004,7 @@
             "open_issues": 175,
             "owner": "phachon",
             "repo": "mm-wiki",
-            "stars": 3775,
+            "stars": 3776,
             "topics": [
               "api-docs",
               "confluence",
@@ -1249,11 +1249,11 @@
             "id": 124303364,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T13:37:31Z",
+            "last_commit": "2026-09-23T14:22:01Z",
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 25938,
+            "stars": 25943,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1665,8 +1665,8 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-23T06:01:31Z",
-            "open_issues": 38,
+            "last_commit": "2026-09-24T09:56:43Z",
+            "open_issues": 39,
             "owner": "LycheeOrg",
             "repo": "Lychee",
             "stars": 4303,
@@ -2157,7 +2157,7 @@
             "open_issues": 0,
             "owner": "Yuri-NagaSaki",
             "repo": "ImageFlow",
-            "stars": 612,
+            "stars": 611,
             "topics": [
               "photos",
               "self-hosted"
@@ -2400,7 +2400,7 @@
             "open_issues": 0,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 1058,
+            "stars": 1059,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2699,7 +2699,7 @@
             "id": 584656916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T09:40:30Z",
+            "last_commit": "2026-09-24T07:47:42Z",
             "open_issues": 20,
             "owner": "Kuingsmile",
             "repo": "PicList",
@@ -2807,7 +2807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T12:02:14.579Z",
+    "last_updated": "2026-09-24T12:08:14.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2815,7 +2815,7 @@
       "id": 165874757,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-23T08:09:11Z",
+      "last_commit": "2026-09-24T01:07:40Z",
       "open_issues": 1,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
@@ -2826,7 +2826,7 @@
         "picgo"
       ]
     },
-    "original_repository_sha": "5828b00ead40943a18a5c7fac906e5f971d06e0a",
+    "original_repository_sha": "5fec9aaef7afb1c71ae244cccc5b2598952b997c",
     "enhanced_repository": "enhansome/enhansome-Awesome-PicGo",
     "enhanced_repository_description": null,
     "title": "Awesome-PicGo with stars"
