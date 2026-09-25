@@ -1253,7 +1253,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 25943,
+            "stars": 25947,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1665,8 +1665,8 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-24T09:56:43Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-25T08:05:29Z",
+            "open_issues": 36,
             "owner": "LycheeOrg",
             "repo": "Lychee",
             "stars": 4303,
@@ -2699,11 +2699,11 @@
             "id": 584656916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T07:47:42Z",
+            "last_commit": "2026-09-25T05:51:35Z",
             "open_issues": 20,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3770,
+            "stars": 3771,
             "topics": [
               "alioss",
               "electron",
@@ -2807,7 +2807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T12:08:14.382Z",
+    "last_updated": "2026-09-25T12:07:27.061Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
