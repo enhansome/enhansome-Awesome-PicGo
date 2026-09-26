@@ -1004,7 +1004,7 @@
             "open_issues": 175,
             "owner": "phachon",
             "repo": "mm-wiki",
-            "stars": 3776,
+            "stars": 3775,
             "topics": [
               "api-docs",
               "confluence",
@@ -1253,7 +1253,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 25947,
+            "stars": 25949,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1295,7 +1295,7 @@
             "open_issues": 12,
             "owner": "qkqpttgf",
             "repo": "OneManager-php",
-            "stars": 3798,
+            "stars": 3795,
             "topics": [
               "aliyun-fc",
               "baidu-cfc",
@@ -1576,7 +1576,7 @@
             "open_issues": 20,
             "owner": "songquanpeng",
             "repo": "go-file",
-            "stars": 1124,
+            "stars": 1125,
             "topics": [
               "file-share",
               "go-file",
@@ -1665,11 +1665,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-25T08:05:29Z",
-            "open_issues": 36,
+            "last_commit": "2026-09-26T09:45:06Z",
+            "open_issues": 39,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4303,
+            "stars": 4305,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -1805,7 +1805,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4689,
+            "stars": 4690,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1859,7 +1859,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4689,
+            "stars": 4690,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2311,7 +2311,7 @@
             "open_issues": 11,
             "owner": "supine0703",
             "repo": "picgo-plugin-compress-next",
-            "stars": 35,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2400,7 +2400,7 @@
             "open_issues": 0,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 1059,
+            "stars": 1058,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2605,7 +2605,7 @@
             "open_issues": 78,
             "owner": "renmu123",
             "repo": "obsidian-image-auto-upload-plugin",
-            "stars": 474,
+            "stars": 475,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2677,7 +2677,7 @@
             "open_issues": 2,
             "owner": "askfiy",
             "repo": "nvim-picgo",
-            "stars": 68,
+            "stars": 69,
             "topics": [
               "image",
               "lua",
@@ -2781,7 +2781,7 @@
             "open_issues": 5,
             "owner": "Kuingsmile",
             "repo": "PicHoro",
-            "stars": 1020,
+            "stars": 1021,
             "topics": [
               "alist",
               "aliyun-oss",
@@ -2807,7 +2807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T12:07:27.061Z",
+    "last_updated": "2026-09-26T11:42:59.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2819,7 +2819,7 @@
       "open_issues": 1,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
-      "stars": 1729,
+      "stars": 1730,
       "topics": [
         "awesome",
         "awesome-list",
