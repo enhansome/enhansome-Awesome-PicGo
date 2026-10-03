@@ -120,7 +120,7 @@
         {
           "node_type": "item",
           "title": "picgo-plugin-vscode-migrator",
-          "description": null,
+          "description": "upupming/picgo-plugin-vscode-migrator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -144,7 +144,7 @@
         {
           "node_type": "item",
           "title": "A plugin for PicGo to import images from",
-          "description": ".",
+          "description": "PicGo/vs-picgo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -878,7 +878,7 @@
         {
           "node_type": "item",
           "title": "picgo-plugin-easypic",
-          "description": null,
+          "description": "Redns/picgo-plugin-easypic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -899,7 +899,7 @@
         {
           "node_type": "item",
           "title": "An uploader for My-Easy-Pic-Bed",
-          "description": null,
+          "description": "fslongjin/My-Easy-Pic-Bed",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -920,7 +920,7 @@
         {
           "node_type": "item",
           "title": "picgo-plugin-imagebed",
-          "description": null,
+          "description": "Redns/picgo-plugin-imagebed",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -945,7 +945,7 @@
         {
           "node_type": "item",
           "title": "An uploader for ImageBed",
-          "description": null,
+          "description": "Redns/North",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -970,7 +970,7 @@
         {
           "node_type": "item",
           "title": "picgo-plugin-mmwiki",
-          "description": null,
+          "description": "wowtalon/picgo-plugin-mmwiki",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -991,7 +991,7 @@
         {
           "node_type": "item",
           "title": "An uploader for mm-wiki",
-          "description": null,
+          "description": "phachon/mm-wiki",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1022,7 +1022,7 @@
         {
           "node_type": "item",
           "title": "picgo-plugin-lankong",
-          "description": null,
+          "description": "hellodk34/picgo-plugin-lankong",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1079,7 +1079,7 @@
         {
           "node_type": "item",
           "title": "picgo-plugin-lskypro-own",
-          "description": null,
+          "description": "lemodragon/Picgo-Plugin-Lskypro",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1219,7 +1219,7 @@
         {
           "node_type": "item",
           "title": "picgo-plugin-squoosh",
-          "description": null,
+          "description": "JolyneAnasui/picgo-plugin-squoosh",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1261,7 +1261,7 @@
         {
           "node_type": "item",
           "title": "picgo-plugin-onemanager",
-          "description": null,
+          "description": "laoxinH/picgo-plugin-onemanager",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1295,7 +1295,7 @@
             "open_issues": 12,
             "owner": "qkqpttgf",
             "repo": "OneManager-php",
-            "stars": 3791,
+            "stars": 3790,
             "topics": [
               "aliyun-fc",
               "baidu-cfc",
@@ -1490,7 +1490,7 @@
         {
           "node_type": "item",
           "title": "picgo-plugin-lsky-uploader",
-          "description": null,
+          "description": "Cusox/picgo-plugin-lsky-uploader",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1542,7 +1542,7 @@
         {
           "node_type": "item",
           "title": "picgo-plugin-gofile",
-          "description": null,
+          "description": "songquanpeng/picgo-plugin-gofile",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1563,7 +1563,7 @@
         {
           "node_type": "item",
           "title": "An uploader for Go File",
-          "description": ".",
+          "description": "songquanpeng/go-file",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1576,7 +1576,7 @@
             "open_issues": 20,
             "owner": "songquanpeng",
             "repo": "go-file",
-            "stars": 1125,
+            "stars": 1124,
             "topics": [
               "file-share",
               "go-file",
@@ -1631,7 +1631,7 @@
         {
           "node_type": "item",
           "title": "picgo-plugin-lychee",
-          "description": null,
+          "description": "ttionya/picgo-plugin-lychee",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1656,7 +1656,7 @@
         {
           "node_type": "item",
           "title": "An uploader for Lychee",
-          "description": ".",
+          "description": "LycheeOrg/Lychee",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1665,11 +1665,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-01T23:27:29Z",
+            "last_commit": "2026-10-02T23:11:55Z",
             "open_issues": 34,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4307,
+            "stars": 4305,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -1771,7 +1771,7 @@
         {
           "node_type": "item",
           "title": "picgo-plugin-telegraph-image-uploader",
-          "description": null,
+          "description": "msdx/picgo-plugin-telegraph-image-uploader",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1792,7 +1792,7 @@
         {
           "node_type": "item",
           "title": "An uploader for Any image host server built using Telegraph-Image",
-          "description": null,
+          "description": "cf-pages/Telegraph-Image",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1802,10 +1802,10 @@
             "language": "HTML",
             "license": "CC0-1.0",
             "last_commit": "2026-07-27T03:57:46Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4696,
+            "stars": 4694,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1825,7 +1825,7 @@
         {
           "node_type": "item",
           "title": "picgo-plugin-cloudflare-telegraph",
-          "description": null,
+          "description": "yanggithubcom/picgo-plugin-cloudflare-telegraph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1856,10 +1856,10 @@
             "language": "HTML",
             "license": "CC0-1.0",
             "last_commit": "2026-07-27T03:57:46Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4696,
+            "stars": 4694,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2118,7 +2118,7 @@
         {
           "node_type": "item",
           "title": "picgo-plugin-imageflow",
-          "description": null,
+          "description": "iWangJiaxiang/picgo-plugin-imageflow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2144,7 +2144,7 @@
         {
           "node_type": "item",
           "title": "An uploader for imageflow",
-          "description": null,
+          "description": "Yuri-NagaSaki/ImageFlow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2366,7 +2366,7 @@
         {
           "node_type": "item",
           "title": "picgo-plugin-cloudimgs-uploader",
-          "description": null,
+          "description": "qazzxxx/picgo-plugin-cloudimgs-uploader",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2387,7 +2387,7 @@
         {
           "node_type": "item",
           "title": "An uploader for 云图（cloudimgs)图床",
-          "description": null,
+          "description": "qazzxxx/cloudimgs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2397,7 +2397,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-08-21T01:09:04Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
             "stars": 1061,
@@ -2605,7 +2605,7 @@
             "open_issues": 78,
             "owner": "renmu123",
             "repo": "obsidian-image-auto-upload-plugin",
-            "stars": 475,
+            "stars": 473,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2699,11 +2699,11 @@
             "id": 584656916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T10:12:12Z",
+            "last_commit": "2026-10-03T00:44:55Z",
             "open_issues": 19,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3775,
+            "stars": 3772,
             "topics": [
               "alioss",
               "electron",
@@ -2745,7 +2745,7 @@
             "open_issues": 26,
             "owner": "PicGo",
             "repo": "flutter-picgo",
-            "stars": 489,
+            "stars": 487,
             "topics": [
               "aliyun-oss",
               "cos",
@@ -2781,7 +2781,7 @@
             "open_issues": 6,
             "owner": "Kuingsmile",
             "repo": "PicHoro",
-            "stars": 1020,
+            "stars": 1019,
             "topics": [
               "alist",
               "aliyun-oss",
@@ -2807,7 +2807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:04:56.063Z",
+    "last_updated": "2026-10-03T04:28:17.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2819,7 +2819,7 @@
       "open_issues": 1,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
-      "stars": 1732,
+      "stars": 1729,
       "topics": [
         "awesome",
         "awesome-list",
