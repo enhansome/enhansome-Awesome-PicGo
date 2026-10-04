@@ -1253,7 +1253,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 25983,
+            "stars": 25985,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1665,8 +1665,8 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-03T11:38:15Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-04T12:11:54Z",
+            "open_issues": 24,
             "owner": "LycheeOrg",
             "repo": "Lychee",
             "stars": 4305,
@@ -1805,7 +1805,7 @@
             "open_issues": 26,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4694,
+            "stars": 4695,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1859,7 +1859,7 @@
             "open_issues": 26,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4694,
+            "stars": 4695,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2400,7 +2400,7 @@
             "open_issues": 1,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 1061,
+            "stars": 1062,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2703,7 +2703,7 @@
             "open_issues": 19,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3772,
+            "stars": 3769,
             "topics": [
               "alioss",
               "electron",
@@ -2742,7 +2742,7 @@
             "language": "Dart",
             "license": "MIT",
             "last_commit": "2021-06-03T06:21:52Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "PicGo",
             "repo": "flutter-picgo",
             "stars": 487,
@@ -2781,7 +2781,7 @@
             "open_issues": 6,
             "owner": "Kuingsmile",
             "repo": "PicHoro",
-            "stars": 1019,
+            "stars": 1018,
             "topics": [
               "alist",
               "aliyun-oss",
@@ -2807,7 +2807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T11:57:22.133Z",
+    "last_updated": "2026-10-04T12:48:26.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2819,7 +2819,7 @@
       "open_issues": 1,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
-      "stars": 1729,
+      "stars": 1730,
       "topics": [
         "awesome",
         "awesome-list",
