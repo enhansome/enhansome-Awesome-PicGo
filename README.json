@@ -912,7 +912,7 @@
             "open_issues": 3,
             "owner": "fslongjin",
             "repo": "My-Easy-Pic-Bed",
-            "stars": 158,
+            "stars": 159,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1004,7 +1004,7 @@
             "open_issues": 175,
             "owner": "phachon",
             "repo": "mm-wiki",
-            "stars": 3775,
+            "stars": 3774,
             "topics": [
               "api-docs",
               "confluence",
@@ -1253,7 +1253,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 25985,
+            "stars": 25988,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1295,7 +1295,7 @@
             "open_issues": 12,
             "owner": "qkqpttgf",
             "repo": "OneManager-php",
-            "stars": 3790,
+            "stars": 3789,
             "topics": [
               "aliyun-fc",
               "baidu-cfc",
@@ -1665,11 +1665,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-04T12:11:54Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-05T06:39:52Z",
+            "open_issues": 22,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4305,
+            "stars": 4307,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -1802,10 +1802,10 @@
             "language": "HTML",
             "license": "CC0-1.0",
             "last_commit": "2026-07-27T03:57:46Z",
-            "open_issues": 26,
+            "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4695,
+            "stars": 4694,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1856,10 +1856,10 @@
             "language": "HTML",
             "license": "CC0-1.0",
             "last_commit": "2026-07-27T03:57:46Z",
-            "open_issues": 26,
+            "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4695,
+            "stars": 4694,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2157,7 +2157,7 @@
             "open_issues": 0,
             "owner": "Yuri-NagaSaki",
             "repo": "ImageFlow",
-            "stars": 611,
+            "stars": 610,
             "topics": [
               "photos",
               "self-hosted"
@@ -2397,7 +2397,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-08-21T01:09:04Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
             "stars": 1062,
@@ -2699,11 +2699,11 @@
             "id": 584656916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T00:44:55Z",
+            "last_commit": "2026-10-05T10:04:58Z",
             "open_issues": 19,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3769,
+            "stars": 3770,
             "topics": [
               "alioss",
               "electron",
@@ -2778,7 +2778,7 @@
             "language": "Dart",
             "license": "MIT",
             "last_commit": "2026-01-05T14:53:49Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "Kuingsmile",
             "repo": "PicHoro",
             "stars": 1018,
@@ -2807,7 +2807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T12:48:26.609Z",
+    "last_updated": "2026-10-05T15:12:02.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2819,7 +2819,7 @@
       "open_issues": 1,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
-      "stars": 1730,
+      "stars": 1731,
       "topics": [
         "awesome",
         "awesome-list",
