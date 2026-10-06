@@ -1253,7 +1253,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 25990,
+            "stars": 25993,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1992,7 +1992,7 @@
         {
           "node_type": "item",
           "title": "picgo-plugin-cloudflare-r2",
-          "description": "An uploader for cloudflare-R2 :white_check_mark: :x:",
+          "description": "An uploader for cloudflare-R2 :white_check_mark: :white_check_mark:",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2699,11 +2699,11 @@
             "id": 584656916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T09:54:14Z",
+            "last_commit": "2026-10-06T13:32:31Z",
             "open_issues": 19,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3770,
+            "stars": 3769,
             "topics": [
               "alioss",
               "electron",
@@ -2807,7 +2807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:44:37.547Z",
+    "last_updated": "2026-10-06T13:33:18.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2815,8 +2815,8 @@
       "id": 165874757,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-24T01:07:40Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-06T11:21:09Z",
+      "open_issues": 1,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
       "stars": 1730,
@@ -2826,7 +2826,7 @@
         "picgo"
       ]
     },
-    "original_repository_sha": "5fec9aaef7afb1c71ae244cccc5b2598952b997c",
+    "original_repository_sha": "38b4ee8a173fadc317c136af6cd3df920f54e909",
     "enhanced_repository": "enhansome/enhansome-Awesome-PicGo",
     "enhanced_repository_description": null,
     "title": "Awesome-PicGo with stars"
