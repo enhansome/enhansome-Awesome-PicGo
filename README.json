@@ -1253,7 +1253,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 26019,
+            "stars": 26021,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1665,11 +1665,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-12T15:37:42Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-13T14:29:41Z",
+            "open_issues": 20,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4312,
+            "stars": 4309,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -1805,7 +1805,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4690,
+            "stars": 4692,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1859,7 +1859,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4690,
+            "stars": 4692,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2157,7 +2157,7 @@
             "open_issues": 0,
             "owner": "Yuri-NagaSaki",
             "repo": "ImageFlow",
-            "stars": 610,
+            "stars": 608,
             "topics": [
               "photos",
               "self-hosted"
@@ -2400,7 +2400,7 @@
             "open_issues": 0,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 1036,
+            "stars": 1037,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2720,11 +2720,11 @@
             "id": 584656916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T13:23:41Z",
+            "last_commit": "2026-10-13T11:41:27Z",
             "open_issues": 17,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3768,
+            "stars": 3769,
             "topics": [
               "alioss",
               "electron",
@@ -2828,7 +2828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T15:59:30.838Z",
+    "last_updated": "2026-10-13T14:31:05.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2840,7 +2840,7 @@
       "open_issues": 1,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
-      "stars": 1730,
+      "stars": 1729,
       "topics": [
         "awesome",
         "awesome-list",
