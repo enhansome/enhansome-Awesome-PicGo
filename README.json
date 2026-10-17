@@ -1061,7 +1061,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4699,
+            "stars": 4700,
             "topics": [
               "cloud",
               "image-store",
@@ -1113,7 +1113,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4699,
+            "stars": 4700,
             "topics": [
               "cloud",
               "image-store",
@@ -1253,7 +1253,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 26031,
+            "stars": 26034,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1295,7 +1295,7 @@
             "open_issues": 12,
             "owner": "qkqpttgf",
             "repo": "OneManager-php",
-            "stars": 3785,
+            "stars": 3786,
             "topics": [
               "aliyun-fc",
               "baidu-cfc",
@@ -1524,7 +1524,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4699,
+            "stars": 4700,
             "topics": [
               "cloud",
               "image-store",
@@ -1665,11 +1665,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-16T10:32:02Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-17T09:23:21Z",
+            "open_issues": 22,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4311,
+            "stars": 4312,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -2724,7 +2724,7 @@
             "open_issues": 15,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3775,
+            "stars": 3777,
             "topics": [
               "alioss",
               "electron",
@@ -2828,7 +2828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T11:50:04.712Z",
+    "last_updated": "2026-10-17T11:06:58.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
