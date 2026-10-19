@@ -676,7 +676,7 @@
             "open_issues": 10,
             "owner": "wayjam",
             "repo": "picgo-plugin-s3",
-            "stars": 238,
+            "stars": 239,
             "topics": [
               "aws",
               "picgo",
@@ -787,27 +787,6 @@
             "owner": "foraixh",
             "repo": "picgo-plugin-halo-uploader",
             "stars": 10,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:58:10.097Z"
-        },
-        {
-          "node_type": "item",
-          "title": "picgo-plugin-cfi-uploader",
-          "description": "An uploader for Cloudflare Images :white_check_mark: :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Cloudflare Images + Picgo uploader plugin",
-            "homepage": null,
-            "id": 428625445,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2021-11-16T15:01:56Z",
-            "open_issues": 0,
-            "owner": "boeto",
-            "repo": "picgo-plugin-cfi-uploader",
-            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1004,7 +983,7 @@
             "open_issues": 175,
             "owner": "phachon",
             "repo": "mm-wiki",
-            "stars": 3777,
+            "stars": 3776,
             "topics": [
               "api-docs",
               "confluence",
@@ -1061,7 +1040,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4700,
+            "stars": 4701,
             "topics": [
               "cloud",
               "image-store",
@@ -1113,7 +1092,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4700,
+            "stars": 4701,
             "topics": [
               "cloud",
               "image-store",
@@ -1169,7 +1148,7 @@
             "open_issues": 1,
             "owner": "Redns",
             "repo": "picgo-plugin-squeeze",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1524,7 +1503,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4700,
+            "stars": 4701,
             "topics": [
               "cloud",
               "image-store",
@@ -1665,8 +1644,8 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-18T10:15:33Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-19T08:13:35Z",
+            "open_issues": 22,
             "owner": "LycheeOrg",
             "repo": "Lychee",
             "stars": 4311,
@@ -1805,7 +1784,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4695,
+            "stars": 4694,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1859,7 +1838,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4695,
+            "stars": 4694,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2157,7 +2136,7 @@
             "open_issues": 0,
             "owner": "Yuri-NagaSaki",
             "repo": "ImageFlow",
-            "stars": 608,
+            "stars": 607,
             "topics": [
               "photos",
               "self-hosted"
@@ -2311,7 +2290,7 @@
             "open_issues": 12,
             "owner": "supine0703",
             "repo": "picgo-plugin-compress-next",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2724,7 +2703,7 @@
             "open_issues": 15,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3777,
+            "stars": 3780,
             "topics": [
               "alioss",
               "electron",
@@ -2828,7 +2807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T11:37:15.376Z",
+    "last_updated": "2026-10-19T13:51:06.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
