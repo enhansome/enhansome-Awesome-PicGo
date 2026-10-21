@@ -983,7 +983,7 @@
             "open_issues": 175,
             "owner": "phachon",
             "repo": "mm-wiki",
-            "stars": 3775,
+            "stars": 3777,
             "topics": [
               "api-docs",
               "confluence",
@@ -1232,7 +1232,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 26043,
+            "stars": 26052,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1274,7 +1274,7 @@
             "open_issues": 12,
             "owner": "qkqpttgf",
             "repo": "OneManager-php",
-            "stars": 3785,
+            "stars": 3787,
             "topics": [
               "aliyun-fc",
               "baidu-cfc",
@@ -1555,7 +1555,7 @@
             "open_issues": 20,
             "owner": "songquanpeng",
             "repo": "go-file",
-            "stars": 1121,
+            "stars": 1122,
             "topics": [
               "file-share",
               "go-file",
@@ -1644,11 +1644,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-20T10:33:01Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-20T12:55:04Z",
+            "open_issues": 17,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4311,
+            "stars": 4310,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -1784,7 +1784,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4695,
+            "stars": 4699,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1838,7 +1838,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4695,
+            "stars": 4699,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1995,7 +1995,7 @@
           "description": "An uploader for Hello图床(专业版) :white_check_mark: :white_check_mark:",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "为 PicGo 开发的一款插件，适配Hello图床专业版接口。",
             "homepage": null,
             "id": 883106733,
@@ -2016,7 +2016,7 @@
           "description": "An uploader for Freeimg图床 :white_check_mark: :white_check_mark:",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "picgo插件-Freeimg图床",
             "homepage": null,
             "id": 883146921,
@@ -2699,11 +2699,11 @@
             "id": 584656916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T11:23:30Z",
+            "last_commit": "2026-10-20T19:01:24Z",
             "open_issues": 15,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3779,
+            "stars": 3781,
             "topics": [
               "alioss",
               "electron",
@@ -2807,7 +2807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T12:00:36.316Z",
+    "last_updated": "2026-10-21T12:15:49.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
