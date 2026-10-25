@@ -1232,7 +1232,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 26057,
+            "stars": 26061,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1644,11 +1644,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-23T17:22:03Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-24T18:55:34Z",
+            "open_issues": 17,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4312,
+            "stars": 4313,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -2379,7 +2379,7 @@
             "open_issues": 1,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 1024,
+            "stars": 1023,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2700,10 +2700,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-22T09:54:45Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3784,
+            "stars": 3786,
             "topics": [
               "alioss",
               "electron",
@@ -2807,7 +2807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T11:29:53.922Z",
+    "last_updated": "2026-10-25T11:56:07.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
