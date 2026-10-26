@@ -983,7 +983,7 @@
             "open_issues": 176,
             "owner": "phachon",
             "repo": "mm-wiki",
-            "stars": 3777,
+            "stars": 3778,
             "topics": [
               "api-docs",
               "confluence",
@@ -1040,7 +1040,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4701,
+            "stars": 4703,
             "topics": [
               "cloud",
               "image-store",
@@ -1092,7 +1092,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4701,
+            "stars": 4703,
             "topics": [
               "cloud",
               "image-store",
@@ -1232,7 +1232,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 26061,
+            "stars": 26065,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1274,7 +1274,7 @@
             "open_issues": 12,
             "owner": "qkqpttgf",
             "repo": "OneManager-php",
-            "stars": 3787,
+            "stars": 3788,
             "topics": [
               "aliyun-fc",
               "baidu-cfc",
@@ -1447,27 +1447,6 @@
         },
         {
           "node_type": "item",
-          "title": "picgo-plugin-free-uploader",
-          "description": "a picgo plug -in, support user custom script. :white_check_mark: :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "a PicGo custom uploader plugin, use it to uploader your images",
-            "homepage": "https://yuanyxh.com/",
-            "id": 608187871,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2023-09-02T12:21:17Z",
-            "open_issues": 0,
-            "owner": "yuanyxh",
-            "repo": "picgo-plugin-free-uploader",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:58:10.097Z"
-        },
-        {
-          "node_type": "item",
           "title": "picgo-plugin-lsky-uploader",
           "description": "Cusox/picgo-plugin-lsky-uploader",
           "children": [],
@@ -1503,7 +1482,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4701,
+            "stars": 4703,
             "topics": [
               "cloud",
               "image-store",
@@ -1648,7 +1627,7 @@
             "open_issues": 17,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4313,
+            "stars": 4314,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -1784,7 +1763,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4699,
+            "stars": 4701,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1838,7 +1817,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4699,
+            "stars": 4701,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2699,11 +2678,11 @@
             "id": 584656916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T09:54:45Z",
+            "last_commit": "2026-10-25T21:39:12Z",
             "open_issues": 15,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3786,
+            "stars": 3785,
             "topics": [
               "alioss",
               "electron",
@@ -2807,7 +2786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T11:56:07.596Z",
+    "last_updated": "2026-10-26T13:28:39.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2819,7 +2798,7 @@
       "open_issues": 1,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
-      "stars": 1729,
+      "stars": 1730,
       "topics": [
         "awesome",
         "awesome-list",
