@@ -108,7 +108,7 @@
             "id": 174180374,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T08:28:54Z",
+            "last_commit": "2026-10-29T11:37:56Z",
             "open_issues": 0,
             "owner": "chengww5217",
             "repo": "picgo-plugin-qingstor-uploader",
@@ -560,7 +560,7 @@
             "open_issues": 17,
             "owner": "liuwave",
             "repo": "picgo-plugin-rename-file",
-            "stars": 112,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -765,7 +765,7 @@
             "open_issues": 0,
             "owner": "YunfengGao",
             "repo": "picgo-plugin-huawei-uploader",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1232,7 +1232,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 26070,
+            "stars": 26077,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1623,11 +1623,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-27T14:47:57Z",
+            "last_commit": "2026-10-28T21:09:13Z",
             "open_issues": 17,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4316,
+            "stars": 4319,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -1763,7 +1763,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4701,
+            "stars": 4702,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1817,7 +1817,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4701,
+            "stars": 4702,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2244,7 +2244,7 @@
             "id": 1114932916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2025-12-12T05:33:57Z",
+            "last_commit": "2026-10-29T04:28:20Z",
             "open_issues": 0,
             "owner": "zhoucha",
             "repo": "picgo-plugin-im.ge-uploader",
@@ -2358,7 +2358,7 @@
             "open_issues": 1,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 1022,
+            "stars": 1024,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2491,6 +2491,27 @@
             "topics": []
           },
           "first_seen": "2026-10-08T13:55:56.263Z"
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-bilibili-uploader",
+          "description": "An uploader for bilibili ,适配新版接口的 B 站图床 :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "bilibili 图床, 之前的插件api发生了变动，市面上没有，就自己写一个了",
+            "homepage": null,
+            "id": 1436895287,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-10-29T02:42:10Z",
+            "open_issues": 0,
+            "owner": "zhoucha",
+            "repo": "picgo-plugin-bilibili-uploader",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-29T13:37:04.570Z"
         }
       ],
       "title": ":rocket: Plugin for PicGo"
@@ -2581,7 +2602,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2024-11-28T05:52:51Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "renmu123",
             "repo": "obsidian-image-auto-upload-plugin",
             "stars": 475,
@@ -2656,7 +2677,7 @@
             "open_issues": 2,
             "owner": "askfiy",
             "repo": "nvim-picgo",
-            "stars": 69,
+            "stars": 70,
             "topics": [
               "image",
               "lua",
@@ -2678,8 +2699,8 @@
             "id": 584656916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T10:07:44Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-29T00:29:51Z",
+            "open_issues": 16,
             "owner": "Kuingsmile",
             "repo": "PicList",
             "stars": 3789,
@@ -2786,7 +2807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T13:26:56.806Z",
+    "last_updated": "2026-10-29T13:37:04.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2794,8 +2815,8 @@
       "id": 165874757,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-08T10:10:09Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-29T03:06:51Z",
+      "open_issues": 1,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
       "stars": 1731,
@@ -2805,7 +2826,7 @@
         "picgo"
       ]
     },
-    "original_repository_sha": "f58de8352afece7b84bbd3be8f1f8185a09aa955",
+    "original_repository_sha": "d357f73b661d4d4650ba52eaebe82f30d61e8cad",
     "enhanced_repository": "enhansome/enhansome-Awesome-PicGo",
     "enhanced_repository_description": null,
     "title": "Awesome-PicGo with stars"
