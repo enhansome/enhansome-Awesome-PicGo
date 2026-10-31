@@ -676,7 +676,7 @@
             "open_issues": 10,
             "owner": "wayjam",
             "repo": "picgo-plugin-s3",
-            "stars": 241,
+            "stars": 242,
             "topics": [
               "aws",
               "picgo",
@@ -1040,7 +1040,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4705,
+            "stars": 4706,
             "topics": [
               "cloud",
               "image-store",
@@ -1092,7 +1092,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4705,
+            "stars": 4706,
             "topics": [
               "cloud",
               "image-store",
@@ -1274,7 +1274,7 @@
             "open_issues": 12,
             "owner": "qkqpttgf",
             "repo": "OneManager-php",
-            "stars": 3788,
+            "stars": 3787,
             "topics": [
               "aliyun-fc",
               "baidu-cfc",
@@ -1482,7 +1482,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4705,
+            "stars": 4706,
             "topics": [
               "cloud",
               "image-store",
@@ -2605,7 +2605,7 @@
             "open_issues": 79,
             "owner": "renmu123",
             "repo": "obsidian-image-auto-upload-plugin",
-            "stars": 475,
+            "stars": 476,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2703,7 +2703,7 @@
             "open_issues": 17,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3790,
+            "stars": 3791,
             "topics": [
               "alioss",
               "electron",
@@ -2781,7 +2781,7 @@
             "open_issues": 5,
             "owner": "Kuingsmile",
             "repo": "PicHoro",
-            "stars": 1023,
+            "stars": 1024,
             "topics": [
               "alist",
               "aliyun-oss",
@@ -2807,7 +2807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T13:26:24.227Z",
+    "last_updated": "2026-10-31T12:59:06.095Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2819,7 +2819,7 @@
       "open_issues": 2,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
-      "stars": 1732,
+      "stars": 1733,
       "topics": [
         "awesome",
         "awesome-list",
