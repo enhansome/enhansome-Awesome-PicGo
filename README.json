@@ -983,7 +983,7 @@
             "open_issues": 176,
             "owner": "phachon",
             "repo": "mm-wiki",
-            "stars": 3779,
+            "stars": 3780,
             "topics": [
               "api-docs",
               "confluence",
@@ -1232,7 +1232,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 26080,
+            "stars": 26085,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1623,11 +1623,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-29T22:53:47Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-01T13:32:13Z",
+            "open_issues": 19,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4323,
+            "stars": 4325,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -1763,7 +1763,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4703,
+            "stars": 4705,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1817,7 +1817,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4703,
+            "stars": 4705,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2703,7 +2703,7 @@
             "open_issues": 17,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3791,
+            "stars": 3790,
             "topics": [
               "alioss",
               "electron",
@@ -2807,7 +2807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T12:59:06.095Z",
+    "last_updated": "2026-11-01T13:43:25.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
