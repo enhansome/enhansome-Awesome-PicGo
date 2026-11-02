@@ -91,7 +91,7 @@
             "open_issues": 11,
             "owner": "yuki-xin",
             "repo": "picgo-plugin-web-uploader",
-            "stars": 68,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -983,7 +983,7 @@
             "open_issues": 176,
             "owner": "phachon",
             "repo": "mm-wiki",
-            "stars": 3780,
+            "stars": 3781,
             "topics": [
               "api-docs",
               "confluence",
@@ -1040,7 +1040,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4706,
+            "stars": 4707,
             "topics": [
               "cloud",
               "image-store",
@@ -1092,7 +1092,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4706,
+            "stars": 4707,
             "topics": [
               "cloud",
               "image-store",
@@ -1232,7 +1232,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 26085,
+            "stars": 26089,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1274,7 +1274,7 @@
             "open_issues": 12,
             "owner": "qkqpttgf",
             "repo": "OneManager-php",
-            "stars": 3787,
+            "stars": 3786,
             "topics": [
               "aliyun-fc",
               "baidu-cfc",
@@ -1482,7 +1482,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4706,
+            "stars": 4707,
             "topics": [
               "cloud",
               "image-store",
@@ -1534,7 +1534,7 @@
             "open_issues": 20,
             "owner": "songquanpeng",
             "repo": "go-file",
-            "stars": 1122,
+            "stars": 1121,
             "topics": [
               "file-share",
               "go-file",
@@ -1623,11 +1623,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-01T13:32:13Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-02T13:09:46Z",
+            "open_issues": 18,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4325,
+            "stars": 4326,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -1763,7 +1763,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4705,
+            "stars": 4707,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1817,7 +1817,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4705,
+            "stars": 4707,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2512,6 +2512,27 @@
             "topics": []
           },
           "first_seen": "2026-10-29T13:37:04.570Z"
+        },
+        {
+          "node_type": "item",
+          "title": "picgo-plugin-tutu-uploader",
+          "description": "An uploader for tutu ,适配兔兔图床 :white_check_mark: :white_check_mark:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "兔兔 图床 ，官网地址：https://tutu.to/",
+            "homepage": null,
+            "id": 1439159269,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-10-30T01:51:35Z",
+            "open_issues": 0,
+            "owner": "zhoucha",
+            "repo": "picgo-plugin-tutu-uploader",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-02T16:29:22.588Z"
         }
       ],
       "title": ":rocket: Plugin for PicGo"
@@ -2699,7 +2720,7 @@
             "id": 584656916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T02:08:15Z",
+            "last_commit": "2026-11-02T11:15:16Z",
             "open_issues": 17,
             "owner": "Kuingsmile",
             "repo": "PicList",
@@ -2807,7 +2828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T13:43:25.873Z",
+    "last_updated": "2026-11-02T16:29:22.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2815,18 +2836,18 @@
       "id": 165874757,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-29T03:06:51Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-02T09:29:37Z",
+      "open_issues": 1,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
-      "stars": 1733,
+      "stars": 1735,
       "topics": [
         "awesome",
         "awesome-list",
         "picgo"
       ]
     },
-    "original_repository_sha": "d357f73b661d4d4650ba52eaebe82f30d61e8cad",
+    "original_repository_sha": "77961b44f7e234cb2c08874914d88583e8b6e21b",
     "enhanced_repository": "enhansome/enhansome-Awesome-PicGo",
     "enhanced_repository_description": null,
     "title": "Awesome-PicGo with stars"
