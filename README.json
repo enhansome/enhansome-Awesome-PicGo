@@ -1014,7 +1014,7 @@
             "open_issues": 5,
             "owner": "hellodk34",
             "repo": "picgo-plugin-lankong",
-            "stars": 166,
+            "stars": 165,
             "topics": [
               "picgo",
               "picgo-plugin",
@@ -1040,7 +1040,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4704,
+            "stars": 4703,
             "topics": [
               "cloud",
               "image-store",
@@ -1092,7 +1092,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4704,
+            "stars": 4703,
             "topics": [
               "cloud",
               "image-store",
@@ -1232,7 +1232,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 26147,
+            "stars": 26154,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1274,7 +1274,7 @@
             "open_issues": 12,
             "owner": "qkqpttgf",
             "repo": "OneManager-php",
-            "stars": 3784,
+            "stars": 3782,
             "topics": [
               "aliyun-fc",
               "baidu-cfc",
@@ -1482,7 +1482,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4704,
+            "stars": 4703,
             "topics": [
               "cloud",
               "image-store",
@@ -1534,7 +1534,7 @@
             "open_issues": 20,
             "owner": "songquanpeng",
             "repo": "go-file",
-            "stars": 1120,
+            "stars": 1119,
             "topics": [
               "file-share",
               "go-file",
@@ -1623,8 +1623,8 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-05T07:28:38Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-05T21:10:49Z",
+            "open_issues": 16,
             "owner": "LycheeOrg",
             "repo": "Lychee",
             "stars": 4330,
@@ -1763,7 +1763,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4710,
+            "stars": 4709,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1817,7 +1817,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4710,
+            "stars": 4709,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2358,7 +2358,7 @@
             "open_issues": 1,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 1010,
+            "stars": 1011,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2720,11 +2720,11 @@
             "id": 584656916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T01:36:37Z",
+            "last_commit": "2026-11-05T22:51:30Z",
             "open_issues": 18,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3794,
+            "stars": 3795,
             "topics": [
               "alioss",
               "electron",
@@ -2802,7 +2802,7 @@
             "open_issues": 5,
             "owner": "Kuingsmile",
             "repo": "PicHoro",
-            "stars": 1024,
+            "stars": 1022,
             "topics": [
               "alist",
               "aliyun-oss",
@@ -2828,7 +2828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T14:54:16.793Z",
+    "last_updated": "2026-11-06T14:32:13.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2840,7 +2840,7 @@
       "open_issues": 1,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
-      "stars": 1735,
+      "stars": 1734,
       "topics": [
         "awesome",
         "awesome-list",
