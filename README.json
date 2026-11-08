@@ -1040,7 +1040,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4701,
+            "stars": 4702,
             "topics": [
               "cloud",
               "image-store",
@@ -1092,7 +1092,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4701,
+            "stars": 4702,
             "topics": [
               "cloud",
               "image-store",
@@ -1232,7 +1232,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 26157,
+            "stars": 26161,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1482,7 +1482,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4701,
+            "stars": 4702,
             "topics": [
               "cloud",
               "image-store",
@@ -1577,11 +1577,11 @@
             "id": 651677904,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2023-06-11T08:29:32Z",
+            "last_commit": "2026-11-07T15:17:41Z",
             "open_issues": 0,
             "owner": "cloudnzk",
             "repo": "picgo-plugin-imgbb-uploader",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1623,8 +1623,8 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-07T02:41:54Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-08T13:40:13Z",
+            "open_issues": 17,
             "owner": "LycheeOrg",
             "repo": "Lychee",
             "stars": 4330,
@@ -1760,10 +1760,10 @@
             "language": "HTML",
             "license": "CC0-1.0",
             "last_commit": "2026-07-27T03:57:46Z",
-            "open_issues": 25,
+            "open_issues": 24,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4709,
+            "stars": 4708,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1814,10 +1814,10 @@
             "language": "HTML",
             "license": "CC0-1.0",
             "last_commit": "2026-07-27T03:57:46Z",
-            "open_issues": 25,
+            "open_issues": 24,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4709,
+            "stars": 4708,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2115,7 +2115,7 @@
             "open_issues": 0,
             "owner": "Yuri-NagaSaki",
             "repo": "ImageFlow",
-            "stars": 606,
+            "stars": 607,
             "topics": [
               "photos",
               "self-hosted"
@@ -2724,7 +2724,7 @@
             "open_issues": 18,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3795,
+            "stars": 3796,
             "topics": [
               "alioss",
               "electron",
@@ -2828,7 +2828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T13:27:58.531Z",
+    "last_updated": "2026-11-08T13:48:03.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
