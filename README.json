@@ -108,7 +108,7 @@
             "id": 174180374,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T09:01:32Z",
+            "last_commit": "2026-11-10T11:46:45Z",
             "open_issues": 0,
             "owner": "chengww5217",
             "repo": "picgo-plugin-qingstor-uploader",
@@ -1040,7 +1040,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4702,
+            "stars": 4705,
             "topics": [
               "cloud",
               "image-store",
@@ -1092,7 +1092,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4702,
+            "stars": 4705,
             "topics": [
               "cloud",
               "image-store",
@@ -1232,7 +1232,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 26166,
+            "stars": 26176,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1482,7 +1482,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4702,
+            "stars": 4705,
             "topics": [
               "cloud",
               "image-store",
@@ -1534,7 +1534,7 @@
             "open_issues": 20,
             "owner": "songquanpeng",
             "repo": "go-file",
-            "stars": 1119,
+            "stars": 1120,
             "topics": [
               "file-share",
               "go-file",
@@ -1623,11 +1623,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-08T22:50:23Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-10T00:36:31Z",
+            "open_issues": 18,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4328,
+            "stars": 4329,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -2724,7 +2724,7 @@
             "open_issues": 18,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3795,
+            "stars": 3796,
             "topics": [
               "alioss",
               "electron",
@@ -2828,7 +2828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T16:47:19.450Z",
+    "last_updated": "2026-11-10T15:10:25.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2840,7 +2840,7 @@
       "open_issues": 1,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
-      "stars": 1733,
+      "stars": 1734,
       "topics": [
         "awesome",
         "awesome-list",
