@@ -293,7 +293,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2019-06-23T08:42:43Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "lizhuangs",
             "repo": "picgo-plugin-gitee-uploader",
             "stars": 43,
@@ -1232,7 +1232,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 26183,
+            "stars": 26187,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1627,7 +1627,7 @@
             "open_issues": 16,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4328,
+            "stars": 4329,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -1763,7 +1763,7 @@
             "open_issues": 24,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4707,
+            "stars": 4705,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1817,7 +1817,7 @@
             "open_issues": 24,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4707,
+            "stars": 4705,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2358,7 +2358,7 @@
             "open_issues": 1,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 1009,
+            "stars": 1010,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2720,11 +2720,11 @@
             "id": 584656916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T22:51:30Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-12T01:50:32Z",
+            "open_issues": 19,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3795,
+            "stars": 3798,
             "topics": [
               "alioss",
               "electron",
@@ -2763,7 +2763,7 @@
             "language": "Dart",
             "license": "MIT",
             "last_commit": "2021-06-03T06:21:52Z",
-            "open_issues": 25,
+            "open_issues": 27,
             "owner": "PicGo",
             "repo": "flutter-picgo",
             "stars": 487,
@@ -2828,7 +2828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T14:40:17.479Z",
+    "last_updated": "2026-11-12T15:31:38.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2840,7 +2840,7 @@
       "open_issues": 1,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
-      "stars": 1734,
+      "stars": 1733,
       "topics": [
         "awesome",
         "awesome-list",
