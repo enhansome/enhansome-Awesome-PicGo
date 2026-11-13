@@ -651,7 +651,7 @@
             "open_issues": 4,
             "owner": "imba97",
             "repo": "picgo-plugin-sftp-uploader",
-            "stars": 27,
+            "stars": 26,
             "topics": [
               "picgo",
               "picgo-plugin",
@@ -1040,7 +1040,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4703,
+            "stars": 4702,
             "topics": [
               "cloud",
               "image-store",
@@ -1092,7 +1092,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4703,
+            "stars": 4702,
             "topics": [
               "cloud",
               "image-store",
@@ -1232,7 +1232,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 26187,
+            "stars": 26192,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1274,7 +1274,7 @@
             "open_issues": 12,
             "owner": "qkqpttgf",
             "repo": "OneManager-php",
-            "stars": 3781,
+            "stars": 3779,
             "topics": [
               "aliyun-fc",
               "baidu-cfc",
@@ -1482,7 +1482,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4703,
+            "stars": 4702,
             "topics": [
               "cloud",
               "image-store",
@@ -2358,7 +2358,7 @@
             "open_issues": 1,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 1010,
+            "stars": 1009,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2828,7 +2828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T15:31:38.038Z",
+    "last_updated": "2026-11-13T14:51:36.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2840,7 +2840,7 @@
       "open_issues": 1,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
-      "stars": 1733,
+      "stars": 1732,
       "topics": [
         "awesome",
         "awesome-list",
