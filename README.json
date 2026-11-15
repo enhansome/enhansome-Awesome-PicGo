@@ -157,7 +157,7 @@
             "open_issues": 36,
             "owner": "PicGo",
             "repo": "vs-picgo",
-            "stars": 414,
+            "stars": 413,
             "topics": [
               "image-upload",
               "picgo",
@@ -676,7 +676,7 @@
             "open_issues": 10,
             "owner": "wayjam",
             "repo": "picgo-plugin-s3",
-            "stars": 241,
+            "stars": 242,
             "topics": [
               "aws",
               "picgo",
@@ -1232,7 +1232,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 26194,
+            "stars": 26193,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1274,7 +1274,7 @@
             "open_issues": 12,
             "owner": "qkqpttgf",
             "repo": "OneManager-php",
-            "stars": 3779,
+            "stars": 3777,
             "topics": [
               "aliyun-fc",
               "baidu-cfc",
@@ -1534,7 +1534,7 @@
             "open_issues": 20,
             "owner": "songquanpeng",
             "repo": "go-file",
-            "stars": 1120,
+            "stars": 1119,
             "topics": [
               "file-share",
               "go-file",
@@ -1627,7 +1627,7 @@
             "open_issues": 16,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4329,
+            "stars": 4330,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -1763,7 +1763,7 @@
             "open_issues": 24,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4706,
+            "stars": 4705,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1817,7 +1817,7 @@
             "open_issues": 24,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4706,
+            "stars": 4705,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2115,7 +2115,7 @@
             "open_issues": 0,
             "owner": "Yuri-NagaSaki",
             "repo": "ImageFlow",
-            "stars": 606,
+            "stars": 607,
             "topics": [
               "photos",
               "self-hosted"
@@ -2556,7 +2556,7 @@
             "open_issues": 36,
             "owner": "PicGo",
             "repo": "vs-picgo",
-            "stars": 414,
+            "stars": 413,
             "topics": [
               "image-upload",
               "picgo",
@@ -2724,7 +2724,7 @@
             "open_issues": 19,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3798,
+            "stars": 3799,
             "topics": [
               "alioss",
               "electron",
@@ -2766,7 +2766,7 @@
             "open_issues": 28,
             "owner": "PicGo",
             "repo": "flutter-picgo",
-            "stars": 487,
+            "stars": 488,
             "topics": [
               "aliyun-oss",
               "cos",
@@ -2828,7 +2828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T13:45:02.431Z",
+    "last_updated": "2026-11-15T14:15:11.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2840,7 +2840,7 @@
       "open_issues": 1,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
-      "stars": 1732,
+      "stars": 1731,
       "topics": [
         "awesome",
         "awesome-list",
