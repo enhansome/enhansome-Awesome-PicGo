@@ -1040,7 +1040,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4700,
+            "stars": 4699,
             "topics": [
               "cloud",
               "image-store",
@@ -1092,7 +1092,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4700,
+            "stars": 4699,
             "topics": [
               "cloud",
               "image-store",
@@ -1482,7 +1482,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4700,
+            "stars": 4699,
             "topics": [
               "cloud",
               "image-store",
@@ -1534,7 +1534,7 @@
             "open_issues": 20,
             "owner": "songquanpeng",
             "repo": "go-file",
-            "stars": 1120,
+            "stars": 1118,
             "topics": [
               "file-share",
               "go-file",
@@ -1623,11 +1623,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-19T11:58:30Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-19T22:40:40Z",
+            "open_issues": 17,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4335,
+            "stars": 4333,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -1763,7 +1763,7 @@
             "open_issues": 24,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4707,
+            "stars": 4706,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1817,7 +1817,7 @@
             "open_issues": 24,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4707,
+            "stars": 4706,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2626,7 +2626,7 @@
             "open_issues": 79,
             "owner": "renmu123",
             "repo": "obsidian-image-auto-upload-plugin",
-            "stars": 478,
+            "stars": 479,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2721,7 +2721,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-16T22:49:05Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "Kuingsmile",
             "repo": "PicList",
             "stars": 3802,
@@ -2802,7 +2802,7 @@
             "open_issues": 5,
             "owner": "Kuingsmile",
             "repo": "PicHoro",
-            "stars": 1020,
+            "stars": 1018,
             "topics": [
               "alist",
               "aliyun-oss",
@@ -2828,7 +2828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T15:59:44.930Z",
+    "last_updated": "2026-11-20T15:42:57.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
