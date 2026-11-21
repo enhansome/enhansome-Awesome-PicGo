@@ -1040,7 +1040,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4699,
+            "stars": 4700,
             "topics": [
               "cloud",
               "image-store",
@@ -1092,7 +1092,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4699,
+            "stars": 4700,
             "topics": [
               "cloud",
               "image-store",
@@ -1232,7 +1232,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 26209,
+            "stars": 26213,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1274,7 +1274,7 @@
             "open_issues": 12,
             "owner": "qkqpttgf",
             "repo": "OneManager-php",
-            "stars": 3777,
+            "stars": 3778,
             "topics": [
               "aliyun-fc",
               "baidu-cfc",
@@ -1482,7 +1482,7 @@
             "open_issues": 167,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4699,
+            "stars": 4700,
             "topics": [
               "cloud",
               "image-store",
@@ -2720,8 +2720,8 @@
             "id": 584656916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T22:49:05Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-21T14:14:08Z",
+            "open_issues": 10,
             "owner": "Kuingsmile",
             "repo": "PicList",
             "stars": 3802,
@@ -2828,7 +2828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T15:42:57.812Z",
+    "last_updated": "2026-11-21T14:53:38.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
