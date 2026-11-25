@@ -1232,7 +1232,7 @@
             "open_issues": 261,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 26224,
+            "stars": 26227,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1274,7 +1274,7 @@
             "open_issues": 12,
             "owner": "qkqpttgf",
             "repo": "OneManager-php",
-            "stars": 3776,
+            "stars": 3775,
             "topics": [
               "aliyun-fc",
               "baidu-cfc",
@@ -1623,11 +1623,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-24T13:15:08Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-25T00:26:14Z",
+            "open_issues": 17,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4336,
+            "stars": 4338,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -2358,7 +2358,7 @@
             "open_issues": 1,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 1008,
+            "stars": 1007,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2623,7 +2623,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2024-11-28T05:52:51Z",
-            "open_issues": 80,
+            "open_issues": 79,
             "owner": "renmu123",
             "repo": "obsidian-image-auto-upload-plugin",
             "stars": 479,
@@ -2724,7 +2724,7 @@
             "open_issues": 9,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3802,
+            "stars": 3803,
             "topics": [
               "alioss",
               "electron",
@@ -2828,7 +2828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T18:11:06.001Z",
+    "last_updated": "2026-11-25T17:33:09.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
