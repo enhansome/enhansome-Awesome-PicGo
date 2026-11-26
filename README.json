@@ -1014,7 +1014,7 @@
             "open_issues": 5,
             "owner": "hellodk34",
             "repo": "picgo-plugin-lankong",
-            "stars": 165,
+            "stars": 164,
             "topics": [
               "picgo",
               "picgo-plugin",
@@ -1040,7 +1040,7 @@
             "open_issues": 166,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4700,
+            "stars": 4701,
             "topics": [
               "cloud",
               "image-store",
@@ -1092,7 +1092,7 @@
             "open_issues": 166,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4700,
+            "stars": 4701,
             "topics": [
               "cloud",
               "image-store",
@@ -1229,10 +1229,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-22T17:16:21Z",
-            "open_issues": 261,
+            "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 26227,
+            "stars": 26229,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1482,7 +1482,7 @@
             "open_issues": 166,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4700,
+            "stars": 4701,
             "topics": [
               "cloud",
               "image-store",
@@ -1623,11 +1623,11 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-25T00:26:14Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-25T23:44:13Z",
+            "open_issues": 18,
             "owner": "LycheeOrg",
             "repo": "Lychee",
-            "stars": 4338,
+            "stars": 4340,
             "topics": [
               "gallery",
               "hacktoberfest",
@@ -2115,7 +2115,7 @@
             "open_issues": 0,
             "owner": "Yuri-NagaSaki",
             "repo": "ImageFlow",
-            "stars": 607,
+            "stars": 606,
             "topics": [
               "photos",
               "self-hosted"
@@ -2358,7 +2358,7 @@
             "open_issues": 1,
             "owner": "qazzxxx",
             "repo": "cloudimgs",
-            "stars": 1007,
+            "stars": 1008,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -2720,11 +2720,11 @@
             "id": 584656916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T14:24:19Z",
+            "last_commit": "2026-11-26T14:26:00Z",
             "open_issues": 9,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3803,
+            "stars": 3805,
             "topics": [
               "alioss",
               "electron",
@@ -2828,7 +2828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T17:33:09.737Z",
+    "last_updated": "2026-11-26T17:14:42.141Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
