@@ -1014,7 +1014,7 @@
             "open_issues": 5,
             "owner": "hellodk34",
             "repo": "picgo-plugin-lankong",
-            "stars": 164,
+            "stars": 163,
             "topics": [
               "picgo",
               "picgo-plugin",
@@ -1037,10 +1037,10 @@
             "language": "Blade",
             "license": "GPL-3.0",
             "last_commit": "2026-02-14T03:51:20Z",
-            "open_issues": 166,
+            "open_issues": 165,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4701,
+            "stars": 4702,
             "topics": [
               "cloud",
               "image-store",
@@ -1089,10 +1089,10 @@
             "language": "Blade",
             "license": "GPL-3.0",
             "last_commit": "2026-02-14T03:51:20Z",
-            "open_issues": 166,
+            "open_issues": 165,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4701,
+            "stars": 4702,
             "topics": [
               "cloud",
               "image-store",
@@ -1232,7 +1232,7 @@
             "open_issues": 262,
             "owner": "GoogleChromeLabs",
             "repo": "squoosh",
-            "stars": 26234,
+            "stars": 26239,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:10.097Z"
@@ -1274,7 +1274,7 @@
             "open_issues": 12,
             "owner": "qkqpttgf",
             "repo": "OneManager-php",
-            "stars": 3775,
+            "stars": 3773,
             "topics": [
               "aliyun-fc",
               "baidu-cfc",
@@ -1479,10 +1479,10 @@
             "language": "Blade",
             "license": "GPL-3.0",
             "last_commit": "2026-02-14T03:51:20Z",
-            "open_issues": 166,
+            "open_issues": 165,
             "owner": "lsky-org",
             "repo": "lsky-pro",
-            "stars": 4701,
+            "stars": 4702,
             "topics": [
               "cloud",
               "image-store",
@@ -1623,8 +1623,8 @@
             "id": 143975804,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-25T23:44:13Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-28T13:04:23Z",
+            "open_issues": 17,
             "owner": "LycheeOrg",
             "repo": "Lychee",
             "stars": 4339,
@@ -1763,7 +1763,7 @@
             "open_issues": 24,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4705,
+            "stars": 4704,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -1817,7 +1817,7 @@
             "open_issues": 24,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4705,
+            "stars": 4704,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -2115,7 +2115,7 @@
             "open_issues": 0,
             "owner": "Yuri-NagaSaki",
             "repo": "ImageFlow",
-            "stars": 606,
+            "stars": 607,
             "topics": [
               "photos",
               "self-hosted"
@@ -2623,7 +2623,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2024-11-28T05:52:51Z",
-            "open_issues": 79,
+            "open_issues": 78,
             "owner": "renmu123",
             "repo": "obsidian-image-auto-upload-plugin",
             "stars": 479,
@@ -2720,11 +2720,11 @@
             "id": 584656916,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-27T15:19:02Z",
+            "last_commit": "2026-11-28T09:48:24Z",
             "open_issues": 9,
             "owner": "Kuingsmile",
             "repo": "PicList",
-            "stars": 3804,
+            "stars": 3802,
             "topics": [
               "alioss",
               "electron",
@@ -2828,7 +2828,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T16:55:58.195Z",
+    "last_updated": "2026-11-28T15:47:08.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome projects using PicGo.",
@@ -2840,7 +2840,7 @@
       "open_issues": 1,
       "owner": "PicGo",
       "repo": "Awesome-PicGo",
-      "stars": 1731,
+      "stars": 1730,
       "topics": [
         "awesome",
         "awesome-list",
